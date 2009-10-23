@@ -1,26 +1,31 @@
-body
-{
-	background-image:url('../img/bg.jpg');
-}
+html {
+	margin: 0;
+	padding: 0;
+	}
+	
+body { 
+	font-style:  sans-serif;
+	text-align: center;
+	background-image: url('../img/bg.jpg'); 
+	}
 
-#mainFrame
+#container
 {
+	text-align: left;
 	background-image:url('../img/bg_main_frame.jpg');
 	height:620px;
 	width:877px;
-	border;2px solid red;
-	margin-left:auto;
-	margin-right:auto;
-	float:left;
+	margin-left: auto ;
+	margin-right: auto ;
 }
 
 div #content
 {
+	width:500px;
+	height:350px;
 	padding:5px 8px 5px 8px;
 	margin-top:130px;
 	margin-left:200px;
-	width:500px;
-	height:350px;
 	overflow-x:hidden;
 	overflow-y:visible;
 }
