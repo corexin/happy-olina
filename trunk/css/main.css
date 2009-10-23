@@ -5,6 +5,8 @@ html {
 	
 body { 
 	font-style:  sans-serif;
+	font-size: 1em;
+	line-height:1.3em;
 	text-align: center;
 	background-image: url('../img/bg.jpg'); 
 	}
@@ -47,6 +49,7 @@ div #content
 	font-weight: 600;
 	font-family: cursive;
 	color:#9966CC;
-	text-transform:capitalize;
 	text-indent:1em;
+	letter-spacing:0.01em;
+	word-spacing:0.1px;
 }
