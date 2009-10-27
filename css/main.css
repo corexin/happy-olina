@@ -40,7 +40,7 @@ body {
 {
 	padding:5px;
 	float:left;
-	width:188px;
+	width:120px;
 	height:auto;
 	color:#9966CC;
 	font-size:1.2em;
@@ -51,9 +51,9 @@ body {
 #content #mainFrame 
 {
 	float:right;
-	width:588px;
+	width:640px;
 	margin-top:5px;
-	padding:0px 5px 0px 5px;
+	padding:0px 5px 0px 15px;
 	border-left:1px solid #9966CC;
  
 }
