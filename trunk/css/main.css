@@ -34,7 +34,6 @@ body {
 	width:800px;
 	height:auto;
 	clear:both;
-
 }
 
 #content #nav
@@ -77,18 +76,23 @@ body {
 	word-spacing:0.1px;
 }
 
-#footer 
+#footer  
+{
+	padding:1px;
+}
+#footer  p
+{
+	font-size:0.8em;
+	line-height:1px;
+	text-align:center;
+	
+}
+
+/** shared **/
+#banner
 {
 	clear:both;
 	width:100%;
 	height:50px;
 	background:url('../img/footer.jpg') 0 0 no-repeat;
-	vertical-align: bottom;
-	padding-top:60px;
-}
-#footer  p
-{
-	font-size:0.8em;
-	line-height:0.08em;
-	text-align:center;
 }
