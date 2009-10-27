@@ -81,13 +81,14 @@ body {
 {
 	clear:both;
 	width:100%;
-	height:60px;
+	height:50px;
 	background:url('../img/footer.jpg') 0 0 no-repeat;
 	vertical-align: bottom;
+	padding-top:60px;
 }
 #footer  p
 {
-	margin:5px;
-	float:right;
-	
+	font-size:0.8em;
+	line-height:0.08em;
+	text-align:center;
 }
