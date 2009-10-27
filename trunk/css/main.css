@@ -8,7 +8,7 @@ body {
 	font-size: 1em;
 	line-height:1.3em;
 	text-align: center;
-
+	background-image: url('../img/bg.jpg');
 	}
 
 #container
@@ -19,6 +19,7 @@ body {
 	margin-left: auto ;
 	margin-right: auto ;
 	padding:1px;
+	background-color:white;
 }
 
 #header
@@ -32,7 +33,7 @@ body {
 {
 	width:800px;
 	height:auto;
-
+	clear:both;
 
 }
 
@@ -78,9 +79,13 @@ body {
 
 #footer 
 {
-	float:left;
+	clear:both;
 	width:100%;
-	height:50px;
+	height:100px;
 	background:url('../img/footer.jpg') 0 0 no-repeat;
-	
+	vertical-align: bottom;
+}
+#footer  p
+{
+	vertical-align: text-bottom;
 }
