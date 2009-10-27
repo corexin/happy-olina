@@ -38,15 +38,20 @@ body {
 
 #content #nav
 {
-	padding:5px;
+	padding:10px 0px 0px 10px;
 	float:left;
 	width:120px;
 	height:auto;
+}
+
+#content #nav a
+{
 	color:#9966CC;
+	padding:5px;
+	line-height:1.8em;
 	font-size:1.2em;
 	font-weight: 900;
 }
-
 
 #content #mainFrame 
 {
