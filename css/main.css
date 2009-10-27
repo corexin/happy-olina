@@ -52,7 +52,9 @@ body {
 {
 	float:right;
 	width:588px;
-	padding:5px;
+	margin-top:5px;
+	padding:0px 5px 0px 5px;
+	border-left:1px solid #9966CC;
  
 }
 
