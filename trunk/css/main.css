@@ -42,9 +42,11 @@ body {
 	float:left;
 	width:188px;
 	height:auto;
- 
-
+		color:#9966CC;
+		font-size:1.2em;
+		font-weight: 900;
 }
+
 
 #content #mainFrame 
 {
