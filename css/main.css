@@ -81,11 +81,13 @@ body {
 {
 	clear:both;
 	width:100%;
-	height:100px;
+	height:60px;
 	background:url('../img/footer.jpg') 0 0 no-repeat;
 	vertical-align: bottom;
 }
 #footer  p
 {
-	vertical-align: text-bottom;
+	margin:5px;
+	float:right;
+	
 }
