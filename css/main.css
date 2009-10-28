@@ -94,6 +94,15 @@ body {
 	
 }
 
+#float-div
+{
+	width:87px;
+	height:82px;
+	margin:2px;
+	position:relative;
+	background-image: url(../img/contact.jpg);
+}
+
 /** shared **/
 #banner
 {
@@ -101,4 +110,9 @@ body {
 	width:100%;
 	height:50px;
 	background:url('../img/footer.jpg') 0 0 no-repeat;
+}
+
+.phone
+{
+	text-decoration: underline;
 }
