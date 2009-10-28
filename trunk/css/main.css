@@ -20,6 +20,7 @@ body {
 	margin-right: auto ;
 	padding:1px;
 	background-color:white;
+	position:relative;
 }
 
 #header
@@ -40,7 +41,7 @@ body {
 {
 	padding:10px 0px 0px 10px;
 	float:left;
-	width:120px;
+	width:130px;
 	height:auto;
 }
 
@@ -74,7 +75,7 @@ body {
 
 #content #mainFrame p.text, #content #mainFrame li
 {
-	font-size:1em;
+	font-size:1.1em;
 	font-weight: 400;
 	font-family: cursive;
 	color:#9966CC;
@@ -99,7 +100,10 @@ body {
 	width:87px;
 	height:82px;
 	margin:2px;
-	position:relative;
+	position:absolute;
+	display:none;
+	top:0px;
+	left:0px;
 	background-image: url(../img/contact.jpg);
 }
 
