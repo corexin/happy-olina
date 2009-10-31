@@ -50,9 +50,10 @@ body {
 {
 	color:#9966CC;
 	padding:5px;
-	line-height:1.8em;
+	line-height:1.4m;
 	font-size:1.2em;
 	font-weight: 900;
+	display:block;
 }
 
 #content #mainFrame 
