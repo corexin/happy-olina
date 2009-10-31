@@ -18,6 +18,7 @@ body {
 	width:800px;
 	margin-left: auto ;
 	margin-right: auto ;
+	margin-top: 1px;
 	padding:1px;
 	background-color:white;
 	position:relative;
@@ -105,6 +106,39 @@ body {
 	top:0px;
 	left:0px;
 	background-image: url(../img/contact.jpg);
+}
+
+/** Enter Page **/
+
+#enter_content
+{
+	background-image: url(../img/Enter.jpg);
+	width:800px;
+	height:600px;
+	padding:1px;
+}
+
+#enter_content #enter_flash
+{
+	position: relative;
+	width:300px;
+	height:200px;
+	margin-top:150px;
+	margin-left:270px;
+}
+
+#enter_content #enter_button
+{
+	float:right;
+	width:107px;
+	height:42px;
+	margin-top:100px;
+	margin-right:80px;
+}
+
+#enter_content #enter_button img
+{
+	border: 0px;
 }
 
 /** shared **/
