@@ -127,13 +127,14 @@ body {
 	margin-left:270px;
 }
 
-#enter_content #enter_button
+#enter_content span
 {
-	float:right;
+	position:absolute;
+	margin-bottom:0px;
+	top:500px;
+	right:50px;
 	width:107px;
 	height:42px;
-	margin-top:100px;
-	margin-right:80px;
 }
 
 #enter_content #enter_button img
