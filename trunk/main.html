@@ -1,0 +1,67 @@
+<html>
+<head>
+	<title>Feet and Hand Sculpture Collections</title>
+	<script type="text/javascript" src="javascript/jquery-1.3.2.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+	<script>
+		$(document).ready(function(){
+			$(window).scroll( function() { //这个函数可以监视浏览器滚动条,只要滚动条一移动,此函数就触发
+				var diffY = $(window).scrollTop();//页面现在的位置和滚动条顶端的距离[scrollTop()]
+			    var diffH = $(window).height()-110;//设计者期望的浮动栏与浏览器顶端的距离[height()],这里是与浏览器顶端保持1/4个页面的高度,如果diffH的值设置成0,浮动栏就会落在屏幕顶端
+			    var percent=diffY+diffH; //percent将被赋值给css中的"top"属性,作为浮动栏的新高度值
+			    if(percent<0){      //判断percent的值是否小于0,小于0就凑整,大于0就忽略小数部分
+					percent=Math.ceil(percent);
+			    }else{
+				    percent=Math.floor(percent); //取整
+				    var v = percent+"px"; //css的属性需要一个单位,这里是px
+				    $("#float-div").css("top",v);//percent被赋值给top属性,浏览器根据这个值动态的调整浮动栏的高度,如果按照上面给的代码,这个高度将正好让浮动栏一直保持在屏幕中央
+			    }
+			});
+			// initialize
+			$("#float-div").css("top",$(window).height()-110 + "px");
+			$("#float-div").show();
+		});
+	</script>
+</head>
+<body>
+
+
+ 
+<div id="container">
+
+	<div id="header"></div>
+	
+	<div id="content">
+		<div id="nav">
+			<a href="#">Home</a>
+			<a href="#">Gallery</a>
+			<a href="#">Contact Us</a>
+		</div>
+		<div id="mainFrame">
+			<p class='heading'>Welcome to Happy Olina</p>
+			<ul>
+				<li>To capture a moment for your babies. To create a ideal memory for your parents.</li>
+				<li>To have something special for your families. To have a good gift for your friends.</li>
+			</ul>
+
+			<p class='text'>Babies are growing very qucikly, let's come and have this sculpture keepsake down, keep a good memory for the baby before they grows.we are creating exciting sculpture of your babies' hand and feet and good memories is starting here.......</p>
+			<p class='text'>Also if you would like to have special gift for your family, firend on a special day. We are ready for you, located in south of Brisbane, Happy Olina. All you need to do is choose the best product you perfer to and we will take care of the rest to have this priceless gift ready for you.</p>
+			<p class='text'>If you have special requirements, we are more than happy to discuss with you and accommodate your needs.</p>
+			<p class='text'>The highest quality sculptures plus beautiful picture frames will keep your love forever.</p>
+			<p class='text'>Simply call <span class="phone">07 3711 6840</span> to make an appointment.</p>
+		</div>
+	</div>
+	
+	<div id="footer">
+		<div id="banner"></div>
+		<div>
+			<p>Copyright 2009 HappyOlina</p>
+			<p>web design by Chao Jiang, Meng Liang, Yue Jiang</p>
+		</div>
+	</div>
+	
+	<div id="float-div"></div>
+</div>
+
+</body>
+</html>
