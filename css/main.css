@@ -161,10 +161,10 @@ body {
 #enter_content #enter_flash
 {
 	position: relative;
-	width:300px;
+	width:250px;
 	height:200px;
 	margin-top:150px;
-	margin-left:270px;
+	margin-left:220px;
 }
 
 #enter_content span
@@ -172,7 +172,7 @@ body {
 	position:absolute;
 	margin-bottom:0px;
 	top:500px;
-	right:50px;
+	right:150px;
 	width:107px;
 	height:42px;
 }
