@@ -90,16 +90,50 @@ body {
 	text-align:center;
 }
 
+#content #mainFrame hr
+{
+	margin:2em 0 1em 0;
+	color:#9966CC;
+}
+
+#content #mainFrame p.item
+{
+	line-height:1px;
+	color:#9966CC;
+	text-indent:0.5em;
+}
+
+#content #mainFrame span.label, #content #mainFrame span.label-top
+{
+	text-indent:0.5em;
+	font-family:"Times New Roman",Georgia,Sans-serif;
+	font-style:italic;
+	display: inline-block;
+	width:100px;
+	vertical-align:middle;
+}
+
+#content #mainFrame span.label-top
+{
+	vertical-align:top;
+}
+#content #mainFrame form textarea
+{
+	width:70%;
+	height:120px;
+}
+
+
 #footer  
 {
 	padding:1px;
 }
+
 #footer  p
 {
 	font-size:0.8em;
 	line-height:1px;
 	text-align:center;
-	
 }
 
 #float-div
