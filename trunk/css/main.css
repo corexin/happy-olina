@@ -51,7 +51,7 @@ body {
 	color:#9966CC;
 	padding:5px;
 	line-height:1.4m;
-	font-size:1.2em;
+	font-size:1.1em;
 	font-weight: 900;
 	display:block;
 	text-decoration:none;
@@ -60,6 +60,7 @@ body {
 #content #nav a:hover
 {
 	text-decoration:underline;
+	font-size:1.2em;
 }
 
 #content #mainFrame 
@@ -69,7 +70,6 @@ body {
 	margin-top:5px;
 	padding:0px 5px 0px 15px;
 	border-left:1px solid #9966CC;
- 
 }
 
 #content #mainFrame p.heading
@@ -83,7 +83,7 @@ body {
 
 #content #mainFrame p.text, #content #mainFrame li
 {
-	font-size:1.1em;
+	font-size:1em;
 	font-weight: 400;
 	font-family: cursive;
 	color:#9966CC;
