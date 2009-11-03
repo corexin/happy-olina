@@ -54,6 +54,12 @@ body {
 	font-size:1.2em;
 	font-weight: 900;
 	display:block;
+	text-decoration:none;
+}
+
+#content #nav a:hover
+{
+	text-decoration:underline;
 }
 
 #content #mainFrame 
