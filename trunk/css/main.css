@@ -182,6 +182,11 @@ body {
 	border: 0px;
 }
 
+#enter_content #enter_button a:hover
+{
+	border-bottom: 2px solid red;
+}
+
 /** shared **/
 #banner
 {
