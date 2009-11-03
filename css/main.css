@@ -85,6 +85,11 @@ body {
 	word-spacing:0.1px;
 }
 
+#content #mainFrame p.image
+{
+	text-align:center;
+}
+
 #footer  
 {
 	padding:1px;
