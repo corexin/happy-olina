@@ -2,6 +2,7 @@
 <head>
 	<title>Feet and Hand Sculpture Collections</title>
 	<script type="text/javascript" src="javascript/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="javascript/main.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/main.css" />
 	<script>
 		$(document).ready(function(){
@@ -41,6 +42,7 @@
 		</div>
 		<div id="mainFrame">
 			<p class='heading'>Contact Information</p>
+			<p id="emailResult" class='postback'></p>
 			<p class="item"><span class="label">Address:</span> South Brisbane, QLD 4116</p>
 			<p class="item"><span class="label">Email:</span> info@happyolina.com.au</p>
 			<p class="item"><span class="label">Telephone:</span> 07 3711 6840</p>
@@ -51,7 +53,7 @@
 			<p class='heading'>Contact us via form</p>
 			<form method="post" action="sendEmail.php">
 				<p class="item">
-					<span class="label">Title:</span><select>
+					<span class="label">Title:</span><select name="title">
 						<option name="mr">Mr</option>
 						<option name="ms">Ms</option>
 						<option name="mrs">Mrs</option>
@@ -62,8 +64,8 @@
 				<p class="item"><span class="label">Phone:</span><input name="phone" type="text"></input></p>
 				<p class="item"><span class="label">Email:</span><input name="email" type="text"></input></p>
 				<p class="item"><span class="label">Subject:</span><input name="subject" type="text"></input></p>
-				<p class="item"><span class="label-top">Enquiry:</span><textarea></textarea></p>
-				<p class="item"><span class="button"><input type="submit" value="Submit" /></span></p>
+				<p class="item"><span class="label-top">Enquiry:</span><textarea name="message"></textarea></p>
+				<p class="item"><span class="button"><input id="sendEmailButton" type="submit" value="Submit" /></span></p>
 			</form>
 		</div>
 	</div>

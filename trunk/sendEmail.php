@@ -1,12 +1,20 @@
 <?php
-	$to = "you@yoursite.com";
-	$subject = "Contact Us";
+	$to = "chaojiang.au@gmail.com";
+	$name=$_REQUEST['name'];
+	$phone = $_REQUEST['phone'] ;
 	$email = $_REQUEST['email'] ;
-	$message = $_REQUEST['message'] ;
-	$headers = "From: $email";
+	$subject= $_REQUEST['subject'] ;
+	$headers = "From: $name - $subject";
+	$message = "Message From $name with contact no: $phone"+"\n" +
+				$_REQUEST['message'];
+	
 	$sent = mail($to, $subject, $message, $headers) ;
 	if($sent)
-	{print "Your mail was sent successfully"; }
+	{
+		print "Your mail was sent successfully"; 
+	}
 	else
-	{print "We encountered an error sending your mail"; }
+	{
+		print "We encountered an error sending your mail"; 
+	}
 ?>
