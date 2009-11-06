@@ -69,7 +69,7 @@ body {
 	width:630px;
 	margin-top:5px;
 	padding:0px 5px 0px 15px;
-	border-left:1px solid #9966CC;
+	border-left:2px solid #9966CC;
 }
 
 #content #mainFrame p.heading
@@ -152,6 +152,15 @@ body {
 	top:0px;
 	left:0px;
 	background-image: url(../img/contact.jpg);
+}
+
+/** contact page **/
+#sendEmailResult.postback
+{
+	font-size:2em;
+	font-weight:500;
+	color:red;
+	margin:0 0 0 0;
 }
 
 /** Enter Page **/
