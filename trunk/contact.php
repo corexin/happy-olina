@@ -1,36 +1,22 @@
-<html>
-<head>
-	<title>Feet and Hand Sculpture Collections</title>
-	<script type="text/javascript" src="javascript/jquery-1.3.2.min.js"></script>
-	<script type="text/javascript" src="javascript/jquery.form.js"></script>
-	<script type="text/javascript" src="javascript/main.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/main.css" />
-	 
-</head>
-<body>
+<?php include("header.php"); ?>
 
 <div id="container">
 
 	<div id="header"></div>
 	
 	<div id="content">
-		<div id="nav">
-			<a href="main.html">Home</a>
-			<a href="#">Product</a>
-			<a href="#">FAQ</a>
-			<a href="#">About Us</a>
-			<a href="contact.html">Contact Us</a>
-			<p><a href="#"><img src="img/roomSample.jpg" /></a></p>
-		</div>
+		 <?php include("nav.php"); ?>
 		<div id="mainFrame">
 			<div id="contactInfo">
 				<p class='heading'>Contact Information</p>
-				<p class="item"><span class="label">Address:</span> South Brisbane, QLD 4116</p>
-				<p class="item"><span class="label">Email:</span> info@happyolina.com.au</p>
-				<p class="item"><span class="label">Telephone:</span> 07 3711 6840</p>
-				<p class="item"><span class="label">Fax:</span> 07 3711 6840</p>
-				<p class="item"><span class="label">Mobile:</span> 0422 188 315</p>
-				<p class="item"><span class="label">Web:</span> www.happyolina.com.au</p>
+				<ul>
+					<li><span class="label">Address:</span> South Brisbane, QLD 4116</li>
+					<li><span class="label">Email:</span> info@happyolina.com.au</li>
+					<li><span class="label">Telephone:</span> 07 3711 6840</li>
+					<li><span class="label">Fax:</span> 07 3711 6840</li>
+					<li><span class="label">Mobile:</span> 0422 188 315</li>
+					<li><span class="label">Web:</span> www.happyolina.com.au</li>
+				</ul>
 			</div>
 			<p class='heading'>Contact us via form</p>
 			<p id="sendEmailResult" class='postback'></p>

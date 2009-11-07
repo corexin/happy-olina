@@ -1,30 +1,12 @@
-<html>
-<head>
-	<title>Feet and Hand Sculpture Collections</title>
-	<script type="text/javascript" src="javascript/jquery-1.3.2.min.js"></script>
-	<script type="text/javascript" src="javascript/jquery.form.js"></script>
-	<script type="text/javascript" src="javascript/main.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/main.css" />
- 
-</head>
-<body>
-
-
+<?php include("header.php"); ?>
  
 <div id="container">
 
 	<div id="header"></div>
 	
 	<div id="content">
-		<div id="nav">
-			<a href="main.html">Home</a>
-			<a href="#">Product</a>
-			<a href="#">FAQ</a>
-			<a href="#">About Us</a>
-			<a href="contact.html">Contact Us</a>
-			<p><a href="#"><img src="img/roomSample.jpg" /></a></p>
-		</div>
-		<div id="mainFrame">
+	<?php include("nav.php"); ?>
+	<div id="mainFrame">
 			<p class='heading'>Welcome to Happy Olina</p>
 			<ul>
 				<li>To capture a moment for your babies. To create a ideal memory for your parents.</li>
