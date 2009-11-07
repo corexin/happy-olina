@@ -17,9 +17,7 @@ $(document).ready(function() {
         // $.ajax options can be used here too, for example: 
         //timeout:   3000 
     }; 
-	
-	$('#sendEmailForm').ajaxForm(options); 
-	
+
 	function validate(formData, jqForm, options) 
 	{
 		var form = jqForm[0];
@@ -42,9 +40,15 @@ $(document).ready(function() {
 		return true;
 	}
 	
-	$(window).scroll( function() { //这个函数可以监视浏览器滚动条,只要滚动条一移动,此函数就触发
+	$('#sendEmailForm').ajaxForm(options); 
+	
+	
+	
+	
+	/** copy from internet */
+	$(window).scroll( function() {
 			var diffY = $(window).scrollTop();//页面现在的位置和滚动条顶端的距离[scrollTop()]
-			var diffH = $(window).height()-125;//设计者期望的浮动栏与浏览器顶端的距离[height()],这里是与浏览器顶端保持1/4个页面的高度,如果diffH的值设置成0,浮动栏就会落在屏幕顶端
+			var diffH = $(window).height()-140;//设计者期望的浮动栏与浏览器顶端的距离[height()],这里是与浏览器顶端保持1/4个页面的高度,如果diffH的值设置成0,浮动栏就会落在屏幕顶端
 			var percent=diffY+diffH; //percent将被赋值给css中的"top"属性,作为浮动栏的新高度值
 			if(percent<0){      //判断percent的值是否小于0,小于0就凑整,大于0就忽略小数部分
 				percent=Math.ceil(percent);
@@ -55,7 +59,7 @@ $(document).ready(function() {
 			}
 		});
 		// initialize
-		$("#float-div").css("top",$(window).height()-125 + "px");
+		$("#float-div").css("top",$(window).height()-140 + "px");
 		$("#float-div").show();
 			
 }); 

@@ -7,7 +7,7 @@
 	$headers = "From: $name - $subject";
 	$message = "Message From $name with contact no: $phone"."\n".$_REQUEST['message'];
 	
-	$sent = mail($to, $subject, $message) ;
+	$sent = mail($to, $subject, $message, $headers) ;
 	if($sent)
 	{
 		print "Your mail was sent successfully."; 
