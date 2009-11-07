@@ -9,7 +9,7 @@
 		$(document).ready(function(){
 			$(window).scroll( function() { //这个函数可以监视浏览器滚动条,只要滚动条一移动,此函数就触发
 				var diffY = $(window).scrollTop();//页面现在的位置和滚动条顶端的距离[scrollTop()]
-			    var diffH = $(window).height()-110;//设计者期望的浮动栏与浏览器顶端的距离[height()],这里是与浏览器顶端保持1/4个页面的高度,如果diffH的值设置成0,浮动栏就会落在屏幕顶端
+			    var diffH = $(window).height()-125;//设计者期望的浮动栏与浏览器顶端的距离[height()],这里是与浏览器顶端保持1/4个页面的高度,如果diffH的值设置成0,浮动栏就会落在屏幕顶端
 			    var percent=diffY+diffH; //percent将被赋值给css中的"top"属性,作为浮动栏的新高度值
 			    if(percent<0){      //判断percent的值是否小于0,小于0就凑整,大于0就忽略小数部分
 					percent=Math.ceil(percent);
@@ -20,7 +20,7 @@
 			    }
 			});
 			// initialize
-			$("#float-div").css("top",$(window).height()-110 + "px");
+			$("#float-div").css("top",$(window).height()-125 + "px");
 			$("#float-div").show();
 		});
 	</script>
