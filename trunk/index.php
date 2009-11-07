@@ -2,8 +2,6 @@
  
 <div id="container">
 
- 
-	
 	<div id="enter_content">
 		<div id="enter_flash">
 			<object
