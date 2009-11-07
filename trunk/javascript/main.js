@@ -1,9 +1,6 @@
 $(document).ready(function() { 
-	String.prototype.Trim   =   function(){  
-		return   this.replace(/(^\s*)|(\s*$)/g,   "");  
-	};
- 
- var options = { 
+
+	var options = { 
         target:        '#sendEmailResult',  // target element(s) to be updated with server response 
         beforeSubmit:  validate,  // pre-submit callback 
         //success:       showResponse  // post-submit callback 
@@ -24,12 +21,12 @@ $(document).ready(function() {
 	{
 		var form = jqForm[0];
 		var fieldNames = "";
-		if(!form.name.value.trim())
+		if(!form.name.value)
 		{
 			fieldNames +="[Name]";
 		}
 		
-		if(!form.phone.value.trim() && !form.email.value.trim())
+		if(!form.phone.value && !form.email.value)
 		{
 			fieldNames +=" [Phone or Email]";
 		}
