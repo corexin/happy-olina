@@ -109,11 +109,14 @@ body {
 	text-align:center;
 }
 
-#content #mainFrame hr
+#content #mainFrame #contactInfo
 {
-	margin:2em 0 1em 0;
-	color:#9966CC;
+	display:block;
+	padding-left:200px;
+	background: url('../img/sofa.gif') center left no-repeat;
+	border-bottom:2px solid #BA83CA;
 }
+
 
 #content #mainFrame p.item
 {
