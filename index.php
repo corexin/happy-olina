@@ -1,11 +1,4 @@
-<html>
-<head>
-	<title>Feet and Hand Sculpture Collections</title>
-	<link rel="stylesheet" type="text/css" href="css/main.css" />
-</head>
-<body>
-
-
+<?php include("header.php"); ?>
  
 <div id="container">
 
@@ -41,7 +34,7 @@
 			</object>
 		</div>
 
-		<span id="enter_button"><a href="main.html"><img src="img/EnterButton.gif"/></a></span>
+		<span id="enter_button"><a href="main.php"><img src="img/EnterButton.gif"/></a></span>
 
 	</div>
  

@@ -40,24 +40,34 @@ body {
 
 #content #nav
 {
-	margin:15px 0 0 5px;
-	padding-top:15px;
+	margin-top:15px;
+	margin-left:5px;
 	float:left;
 	width:150px;
 	height:auto;
-	background:url('../img/navHeading.jpg') top center no-repeat;
+	background:url('../img/navHeading.jpg') top left no-repeat;
 }
 
-#content #nav>a
+#content  #nav ul
 {
-	padding:2px 0px 2px 25px;
+	padding:0;
+	margin:18px 0 0 0;
+}
+
+#content  #nav ul li
+{
 	margin:1px;
-	color:#9966CC;
+	padding:2px 1px 2px 20px;
+	width:auto;
 	font-size:1.2em;
 	font-weight: 900;
-	display:block;
-	text-decoration:none;
+	list-style-type:none; 
 	background:#EAEAEA url('../img/snow.gif') center left no-repeat;
+}
+#content  #nav ul li a
+{
+	text-decoration:none;
+	color:#9966CC;
 }
 
 #content #nav img
@@ -67,12 +77,12 @@ body {
 	margin-left:auto;
 	margin-right:auto;
 	border:0px;
+	display:block;
 }
 
 #content #nav a:hover
 {
 	text-decoration:underline;
-	font-size:1.2em;
 }
 
 #content #mainFrame 
@@ -108,15 +118,6 @@ body {
 {
 	text-align:center;
 }
-
-#content #mainFrame #contactInfo
-{
-	display:block;
-	padding-left:200px;
-	background: url('../img/sofa.gif') center left no-repeat;
-	border-bottom:2px solid #BA83CA;
-}
-
 
 #content #mainFrame p.item
 {
@@ -170,6 +171,21 @@ body {
 }
 
 /** contact page **/
+#content #mainFrame #contactInfo
+{
+	display:block;
+	padding-left:200px;
+	background: url('../img/sofa.gif') center left no-repeat;
+	border-bottom:2px solid #BA83CA;
+}
+
+#content #mainFrame #contactInfo ul li
+{
+	list-style-type:none; 
+	padding:0;
+	margin:0;
+}
+
 #sendEmailResult.postback
 {
 	font-size:2em;
