@@ -1,5 +1,5 @@
 <?php
-	$to = "chaojiang.au@gmail.com";
+	$to = "phdpp@hotmail.com,chaojiang.au@gmail.com";
 	$name=$_REQUEST['name'];
 	$phone = $_REQUEST['phone'] ;
 	$email = $_REQUEST['email'] ;

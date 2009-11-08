@@ -5,8 +5,8 @@
 	<div id="header"></div>
 	
 	<div id="content">
-	<?php include("nav.php"); ?>
-	<div id="mainFrame">
+		<?php include("nav.php"); ?>
+		<div id="mainFrame">
 			<p class='heading'>Welcome to Happy Olina</p>
 			<ul>
 				<li>To capture a moment for your babies. To create a ideal memory for your parents.</li>
