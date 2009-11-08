@@ -148,19 +148,7 @@ body {
 	width:70%;
 	height:120px;
 }
-
-#footer  
-{
-	padding:1px;
-}
-
-#footer  p
-{
-	font-size:0.8em;
-	line-height:1px;
-	text-align:center;
-}
-
+ 
 #float-div
 {
 	width:140px;
@@ -243,14 +231,22 @@ body {
 }
 
 /** shared **/
-#banner
+#footer 
 {
-	padding-top:45px;
 	color:white;
-	clear:both;
 	width:100%;
-	height:50px;
+	height:80px;
+	clear:both;
 	background:url('../img/footer.jpg') 0 0 no-repeat;
+	border:1px solid red;
+}
+
+#footer p
+{
+	font-size:0.8em;
+	line-height:1px;
+	text-align:center;
+	margin-top:60px;
 }
 
 .phone
