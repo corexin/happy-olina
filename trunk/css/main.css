@@ -242,10 +242,11 @@ body {
 
 #footer p
 {
+	position: absolute;
+	bottom: 2px;
+	right: 20px;
 	font-size:0.8em;
-	line-height:1px;
 	text-align:center;
-	margin-top:60px;
 }
 
 .phone
