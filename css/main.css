@@ -204,9 +204,9 @@ body {
 #enter_content #enter_flash
 {
 	position: relative;
-	width:500px;
-	height:400px;
-	margin-top:200px;
+	width:600px;
+	height:450px;
+	margin-top:230px;
 	margin-left:220px;
 }
 
@@ -215,8 +215,8 @@ body {
 	position:absolute;
 	margin-bottom:0px;
 	top:700px;
-	right:90px;
-	width:107px;
+	right:50px;
+
 	height:42px;
 }
 
