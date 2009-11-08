@@ -245,6 +245,8 @@ body {
 /** shared **/
 #banner
 {
+	padding-top:45px;
+	color:white;
 	clear:both;
 	width:100%;
 	height:50px;

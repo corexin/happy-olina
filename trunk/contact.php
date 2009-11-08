@@ -40,11 +40,11 @@
 	</div>
 	
 	<div id="footer">
-		<div id="banner"></div>
-		<div>
+		<div id="banner">
 			<p>Copyright 2009 HappyOlina</p>
 			<p>web design by Chao Jiang, Meng Liang, Yue Jiang</p>
 		</div>
+
 	</div>
 	
 	<div id="float-div"></div>
