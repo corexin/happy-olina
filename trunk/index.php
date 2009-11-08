@@ -8,7 +8,7 @@
 	        classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
 	        codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,79,0"
 	        id="Intro"
-	        width="600" height="450"
+	        width="600" height="400"
 			>
 	        <param name="movie" value="flash/Intro.swf">
 	        <param name="bgcolor" value="#FFFFFF">
@@ -18,7 +18,7 @@
 	          type="application/x-shockwave-flash"
 	          pluginspage="http://www.macromedia.com/go/getflashplayer"
 	          name="Intro"
-	          width="600" height="450"
+	          width="600" height="400"
 	          src="flash/Intro.swf"
 	          bgcolor="#FFFFFF"
 	          quality="high"
@@ -32,7 +32,7 @@
 			</object>
 		</div>
 
-		<span id="enter_button"><a href="main.php"><img src="img/EnterButton.gif"/></a></span>
+		<span id="enter_button"><p style="color:#9966CC;display:block;">Main page coming soon...</p></span>
 
 	</div>
  
