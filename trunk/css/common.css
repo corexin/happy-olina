@@ -1,0 +1,24 @@
+html 
+{
+	margin: 0;
+	padding: 0;
+}
+	
+body 
+{ 
+	font-style:  sans-serif;
+	font-size: 1em;
+	line-height:1.3em;
+	text-align: center;
+	background-image: url('../img/bg.jpg');
+}
+
+img
+{
+	border: 0px;
+}
+
+.phone
+{
+	text-decoration: underline;
+}
