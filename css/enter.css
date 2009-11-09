@@ -1,0 +1,43 @@
+/** Enter Page **/
+#enter_container
+{
+	text-align: left;
+	height:auto;
+	width:800px;
+	margin-left: auto ;
+	margin-right: auto ;
+	margin-top: 2px;
+	padding:5px;
+	background-color:white;
+	position:relative;
+}
+
+#enter_content
+{
+	background-image: url(../img/Enter.jpg);
+	width:800px;
+	height:650px;
+	padding:1px;
+}
+
+#enter_content #enter_flash
+{
+	position: relative;
+	width:600px;
+	height:450px;
+	margin-top:175px;
+	margin-left:200px;
+}
+
+#enter_content span
+{
+	position:absolute;
+	margin-bottom:0px;
+	top:540px;
+	right:15px;
+}
+
+#enter_content #enter_button a:hover
+{
+	border-bottom: 2px solid #9966CC;
+}

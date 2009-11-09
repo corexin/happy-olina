@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
  
-<div id="container">
+<div id="enter_container">
 
 	<div id="enter_content">
 		<div id="enter_flash">
@@ -8,7 +8,7 @@
 	        classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
 	        codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,79,0"
 	        id="Intro"
-	        width="600" height="400"
+	        width="450" height="340"
 			>
 	        <param name="movie" value="flash/Intro.swf">
 	        <param name="bgcolor" value="#FFFFFF">
@@ -18,7 +18,7 @@
 	          type="application/x-shockwave-flash"
 	          pluginspage="http://www.macromedia.com/go/getflashplayer"
 	          name="Intro"
-	          width="600" height="400"
+	           width="450" height="340"
 	          src="flash/Intro.swf"
 	          bgcolor="#FFFFFF"
 	          quality="high"

@@ -1,15 +1,4 @@
-html {
-	margin: 0;
-	padding: 0;
-	}
-	
-body { 
-	font-style:  sans-serif;
-	font-size: 1em;
-	line-height:1.3em;
-	text-align: center;
-	background-image: url('../img/bg.jpg');
-	}
+
 
 #container
 {
@@ -191,46 +180,8 @@ body {
 	margin:0 0 0 0;
 }
 
-/** Enter Page **/
+/** footer **/
 
-#enter_content
-{
-	background-image: url(../img/Enter.jpg);
-	width:1000px;
-	height:800px;
-	padding:1px;
-}
-
-#enter_content #enter_flash
-{
-	position: relative;
-	width:600px;
-	height:450px;
-	margin-top:230px;
-	margin-left:220px;
-}
-
-#enter_content span
-{
-	position:absolute;
-	margin-bottom:0px;
-	top:700px;
-	right:50px;
-
-	height:42px;
-}
-
-img
-{
-	border: 0px;
-}
-
-#enter_content #enter_button a:hover
-{
-	border-bottom: 2px solid #9966CC;
-}
-
-/** shared **/
 #footer 
 {
 	color:white;
@@ -249,7 +200,3 @@ img
 	text-align:center;
 }
 
-.phone
-{
-	text-decoration: underline;
-}
