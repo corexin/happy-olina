@@ -1,3 +1,4 @@
 welcome to happy olina ,about us ,faq , product
 
-#68438F
+format: Blackadder ITC
+color value: #68438F
