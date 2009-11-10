@@ -18,7 +18,26 @@ img
 	border: 0px;
 }
 
-.phone
+.phone, .email
 {
 	text-decoration: underline;
+	font-weight:bold;
+	color:#9966CC;
+}
+
+.floatLeft
+{
+	float:left;
+	margin:5px;
+}
+
+.floatRight
+{
+	float:right;
+	margin:5px;
+}
+
+.clearBoth
+{
+	clear:both;
 }
