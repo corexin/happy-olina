@@ -7,17 +7,18 @@
 	<div id="content">
 		<?php include("nav.php"); ?>
 		<div id="mainFrame">
-			<p class='heading'>Welcome to Happy Olina</p>
-			<ul>
-				<li>To capture a moment for your babies. To create a ideal memory for your parents.</li>
-				<li>To have something special for your families. To have a good gift for your friends.</li>
-			</ul>
-			<p class="image"><img src="img/image1-small.jpg" /></p>
-			<p class='text'>Babies are growing very qucikly, let's come and have this sculpture keepsake down, keep a good memory for the baby before they grows.we are creating exciting sculpture of your babies' hand and feet and good memories is starting here.......</p>
-			<p class='text'>Also if you would like to have special gift for your family, firend on a special day. We are ready for you, located in south of Brisbane, Happy Olina. All you need to do is choose the best product you perfer to and we will take care of the rest to have this priceless gift ready for you.</p>
-			<p class='text'>If you have special requirements, we are more than happy to discuss with you and accommodate your needs.</p>
-			<p class='text'>The highest quality sculptures plus beautiful picture frames will keep your love forever.</p>
-			<p class='text'>Simply call <span class="phone">07 3711 6840</span> to make an appointment.</p>
+			<h2>Welcome to Happy Olina</h2>
+			<img class="floatLeft" src="img/image1-small.jpg" />
+			<div class="textOnRight">
+				<p class="ulHeading">We specialize in Baby Hand and Feet sculptures.</p>
+				<ul>
+					<li>To create a ideal memory for your cute babies.</li>
+					<li>To have a special and amazing gift for your friends.</li>
+				</ul>
+				<p >Precious little hands and feet mounted by high quality frame will keep your love forever.</p>
+				<p >If you have special requirements, simply call <span class="phone">07 3711 6840</span> or send an Email to: <a class="email" href="mailto:info@happyolina.com.au">info@happyolina.com.au</a></p>
+				<p >We are more than happy to discuss with you and accommodate your needs.</p>
+			</div>
 		</div>
 	</div>
 	
