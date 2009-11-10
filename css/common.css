@@ -41,3 +41,17 @@ img
 {
 	clear:both;
 }
+
+.textOnRight
+{
+	width:550px;
+	float:right;
+	margin:5px;
+}
+
+.textOnLeft
+{
+	width:560px;
+	float:left;
+	margin:5px;
+}

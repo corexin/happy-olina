@@ -80,8 +80,12 @@
 	padding:20px 5px 5px 5px;
 	width:802px;
 	border-left:4px solid #BA83CA;
-	background: url('../img/rightFlower.gif') top right no-repeat;
 	color:#9966CC;
+}
+
+.rightTopFlower
+{
+	background: url('../img/rightFlower.gif') top right no-repeat;
 }
 
 #content #mainFrame h2
@@ -92,22 +96,13 @@
 
 #content #mainFrame p
 {
-	clear:both;
+	padding:5px;
 }
 
 #content #mainFrame  .ulHeading
 {	
 	font-weight:bold;
 }
-
-.textOnRight
-{
-	width:560px;
-	float:right;
-	margin:5px;
-}
-
-
 
 #content #mainFrame p.text,
 {
@@ -118,10 +113,6 @@
 	word-spacing:0.1px;
 }
 
-#content #mainFrame image
-{
-	width:200px;
-}
 
 #content #mainFrame p.item
 {
@@ -195,12 +186,11 @@
 
 /** footer **/
 
-
 #footer 
 {
 	color:white;
-	width:100%;
-	height:80px;
+	width:1000;
+	height:175px;
 	clear:both;
 	background:url('../img/footer.jpg') 0 0 no-repeat;
 }
@@ -208,7 +198,7 @@
 #footer p
 {
 	position: absolute;
-	bottom: 2px;
+	top: 150px;
 	right: 20px;
 	font-size:0.8em;
 }
