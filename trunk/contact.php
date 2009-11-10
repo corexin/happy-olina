@@ -8,7 +8,7 @@
 		 <?php include("nav.php"); ?>
 		<div id="mainFrame">
 			<div id="contactInfo">
-				<p class='heading'>Contact Information</p>
+				<h2 class="alignLeft">Contact Information</h2>
 				<ul>
 					<li><span class="label">Address:</span> South Brisbane, QLD 4116</li>
 					<li><span class="label">Email:</span> info@happyolina.com.au</li>
@@ -18,8 +18,10 @@
 					<li><span class="label">Web:</span> www.happyolina.com.au</li>
 				</ul>
 			</div>
-			<p class='heading'>Contact us via form</p>
+			<hr/>
+			<h2>Contact us via form</h2>
 			<p id="sendEmailResult" class='postback'></p>
+
 			<form id="sendEmailForm" method="post" action="sendEmail.php">
 				<p class="item">
 					<span class="label">Title:</span><select name="title">
@@ -33,9 +35,11 @@
 				<p class="item"><span class="label">Phone:</span><input name="phone" type="text"></input></p>
 				<p class="item"><span class="label">Email:</span><input name="email" type="text"></input></p>
 				<p class="item"><span class="label">Subject:</span><input name="subject" type="text"></input></p>
-				<p class="item"><span class="label-top">Enquiry:</span><textarea name="message"></textarea></p>
-				<p class="item"><span class="button"><input id="sendEmailButton" type="submit" value="Submit" />&nbsp;<input type="reset" name="resetButton " value="Reset" /></span></p>
+				<p class="item"><span class="label-top">Enquiry:</span><textarea name="message" rows="8"></textarea></p>
+				<p class="item"><input id="sendEmailButton" type="submit" value="Submit" />&nbsp;<input type="reset" name="resetButton " value="Reset" /></p>
+
 			</form>
+
 		</div>
 	</div>
 	

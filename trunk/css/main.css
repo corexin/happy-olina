@@ -88,10 +88,16 @@
 	background: url('../img/rightFlower.gif') top right no-repeat;
 }
 
-#content #mainFrame h2
+#content #mainFrame h2,#content #mainFrame h2.alignLeft
 {
 	text-align:center;
 	margin-bottom:1em;
+	clear:both;
+	width:100%;
+}
+#content #mainFrame h2.alignLeft
+{
+	text-align:left;
 }
 
 #content #mainFrame p
@@ -113,11 +119,12 @@
 	word-spacing:0.1px;
 }
 
-
 #content #mainFrame p.item
 {
-	line-height:1px;
 	text-indent:0.5em;
+	clear:both;
+	height:auto;
+	margin:0;
 }
 
 #content #mainFrame span.label, #content #mainFrame span.label-top
@@ -139,7 +146,6 @@
 #content #mainFrame form textarea
 {
 	width:70%;
-	height:120px;
 }
  
 #float-div
@@ -158,9 +164,9 @@
 #content #mainFrame #contactInfo
 {
 	display:block;
-	padding-left:200px;
-	background: url('../img/sofa.gif') center left no-repeat;
-	border-bottom:2px solid #BA83CA;
+	padding:5px 0 5px 200px;
+	background: #EAEAEA url('../img/sofa.gif') center left no-repeat;
+	margin:10px;
 }
 
 #content #mainFrame #contactInfo ul
@@ -182,6 +188,7 @@
 	font-weight:500;
 	color:red;
 	margin:0 0 0 0;
+	line-height:0.5em;
 }
 
 /** footer **/
