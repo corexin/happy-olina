@@ -6,7 +6,7 @@
 	
 	<div id="content">
 		<?php include("nav.php"); ?>
-		<div id="mainFrame">
+		<div id="mainFrame" class="rightTopFlower">
 			<h2>Welcome to Happy Olina</h2>
 			<img class="floatLeft" src="img/image1-small.jpg" />
 			<div class="textOnRight">

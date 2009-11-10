@@ -8,7 +8,8 @@
 		<?php include("nav.php"); ?>
 		<div id="mainFrame">
 			<p class='heading'>Our products</p>
-			<br/><br/><br/><br/><br/><br/><br/><br/>
+			Coming soon...
+			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 			
 		</div>
 	</div>
