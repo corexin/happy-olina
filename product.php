@@ -7,12 +7,109 @@
 	<div id="content">
 		<?php include("nav.php"); ?>
 		<div id="mainFrame">
-			<p class='heading'>Our products</p>
-			Coming soon...
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+			<h2 >Our products</h2>
+			<div id="product_index">
+				<h3>Special Deal Of This Week</h3>
+				<div>
+					<a href="img/product/hand1.jpg" >
+						<img src="img/product/handsfoots1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p class="special">Special deal of the week</p>
+				</div>
+				
+				<h3>One Hand and One Foot</h3>
+				<div>
+					<a  href="img/product/handfoot1.jpg" >
+						<img  src="img/product/handfoot1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>One Hand and One Foot</p>
+				</div>
+				<div>
+					<a  href="img/product/handfoot2.jpg" >
+						<img class="long" src="img/product/handfoot2.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>One Hand and One Foot</p>
+				</div>
+				
+				<h3>Hand Only</h3>
+				<div>
+					<a  href="img/product/hand1.jpg"  >
+						<img class="long" src="img/product/hand1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>One Hand</p>
+				</div>
+				
+				<h3>Foot Only</h3>
+				<div>
+					<a  href="img/product/foot1.jpg" >
+						<img src="img/product/foot1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>Foot only</p>
+				</div>
+				<div>
+					<a  href="img/product/foot2.jpg"  >
+						<img src="img/product/foot2.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>Foot only</p>
+				</div>
+				
+    	        <h3>2 Hands and 2 Feet</h3>
+				<div>
+					<a href="img/product/hand1.jpg" >
+						<img src="img/product/handsfoots1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>2 Hands and 2 Feet</p>
+				</div>
+				<div>
+					<a href="img/product/foot1.jpg" >
+						<img src="img/product/handsfoots2.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>2 Hands and 2 Feet</p>
+				</div>    
+				<div>
+					<a href="img/product/foot1.jpg" >
+						<img src="img/product/handsfoots3.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+
+					</a>
+					<p>2 Hands and 2 Feet</p>
+				</div>  
+				<div>
+					<a href="img/product/foot1.jpg" >
+						<img src="img/product/handsfoots4.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>2 Hands and 2 Feet</p>
+				</div>  
+				<div>
+					<a href="img/product/foot1.jpg" >
+						<img src="img/product/handsfoots5.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>2 Hands and 2 Feet</p>
+				</div>  
+				<div>
+					<a href="img/product/foot1.jpg" >
+						<img src="img/product/handsfoots6.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+
+					</a>
+					<p>2 Hands and 2 Feet</p>
+				</div>  
+				<div>
+					<a href="img/product/foot1.jpg" >
+						<img src="img/product/handsfoots7.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>2 Hands and 2 Feet</p>
+				</div>  
+				<div>
+					<a href="img/product/foot1.jpg" >
+						<img src="img/product/handsfoots8.jpg" alt="HappyOlina Hand and Foot Sculpture" />
+					</a>
+					<p>2 Hands and 2 Feet</p>
+				</div> 
+				
+				
+			</div>
 			
 		</div>
 	</div>
 	
 	
-	<?php include("footer.php"); ?>
+<?php include("footer.php"); ?>

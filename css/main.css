@@ -11,6 +11,7 @@
 	padding:5px;
 	background-color:white;
 	position:relative;
+	color:#9966CC;
 }
 
 #header
@@ -80,7 +81,6 @@
 	padding:20px 5px 5px 5px;
 	width:802px;
 	border-left:4px solid #BA83CA;
-	color:#9966CC;
 }
 
 .rightTopFlower
