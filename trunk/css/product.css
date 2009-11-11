@@ -1,0 +1,48 @@
+#product_index
+{
+	width:98%;
+	padding:10px;
+	display:inline-block;
+	height:auto;
+	
+}
+
+#product_index >div
+{
+	float:left;
+	margin:10px;
+}
+#product_index >div p
+{
+	margin-top:0;
+	text-align:center;
+	font-family:cursive;
+	font-size:1.2em;
+	font-weight:1.1em;
+}
+
+#product_index >div img
+{
+	width:300px;
+	height:200px;
+	margin:10px 10px 0 5px;
+}
+
+#product_index >div img.long
+{
+	width:250px;
+	height:300px;
+	margin:10px;
+}
+
+#product_index .miniImage p
+{
+	text-align:center;
+}
+
+#product_index h3
+{
+	width:99%;
+	padding:5px;
+	border-bottom:2px solid 
+}
