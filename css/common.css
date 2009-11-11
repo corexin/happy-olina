@@ -61,6 +61,12 @@ img
 	color:red;
 }
 
+ol ul
+{
+	padding:15px;
+	margin-left:10px;
+}
+
 hr
 {
 	margin:10px;
