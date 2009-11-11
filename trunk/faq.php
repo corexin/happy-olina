@@ -7,9 +7,8 @@
 	<div id="content">
 		 <?php include("nav.php"); ?>
 		<div id="mainFrame">
-			<h2>About Us</h2>
+			<h2>Frequent asked question</h2>
 			<img class="floatRight moveDown" src="img/image3-small.jpg" />
-				
 		
 				<p>Happy Olina specialises in baby hands and feet sculpture and the adult's as well, there is no age limitation.</p>
 
