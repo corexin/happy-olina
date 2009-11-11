@@ -7,16 +7,43 @@
 	<div id="content">
 		 <?php include("nav.php"); ?>
 		<div id="mainFrame">
-			<h2>Frequent asked question</h2>
+			<h2>Frequent Asked Questions</h2>
 			<img class="floatRight moveDown" src="img/image3-small.jpg" />
-		
-				<p>Happy Olina specialises in baby hands and feet sculpture and the adult's as well, there is no age limitation.</p>
-
-				<p>Happy Olina is deried from our lovely daughter's first name. Just like every parents, we focus all our love on her, set up this website and start this business in her name. we could like to share her growig time with all of you. we made her hands and feet scuplture when she was 3 months old. Now she is over 15 months. Whenever we look at her little hands and feet sculpture, it would bring us amazing happiness and remeber her lovely infancy.</p>
-
-				<p>Happy Olina is a home based business. We are located in the southern suburb of Brisbane. Our designer and casting maker, Yolanda, graduated from Queensland University of Technology with a master degree in Arts Creative industry. She grows up in an artist family, whose parents are both famous artists. Yolanda started drawing when she was four and got plenty of award in oil painting, colour painting.</p>
-
-				<p>Since the first day of opreation, we have been committed to providing the highest level of serviece and sculpture quality to all our customers. We pride ourselves on our ability to generate fast, friendly and personalized servies. we strive to meet all parents needs to ensure they could caputre the fantastic moment of their cute babies growing. Tthey are growing pretty fast, so call us now, we are always happy to help you because we love what we are doing and we believe you love to have a good memory for your babies too. </p>
+			<p>
+				<ol>
+					<li>Is there anything we need to get prepared for this sculpture? Like Photo ?</li>
+					<p>No, we have everything ready for you,all you need is to bring the baby and choose the product you like.If you prefer having the sculpture with a photo, we could help take a good one or you can also Email us your own favioute photo, we will develop and upgrade your photo until you are satified. </p>
+					
+					<li>Is it safe for the babies' skin during making the cast for the babies?</li>
+					<p>Absolutely yes. we are using a special and safe material which is originally produced in Germany. It is definately non-toxic to baby skin.We have the safety certificate for our special material.</p>
+					
+					<li>Why choose Happy Olina for your baby hands and feet sculpture? </li>
+					<p>With Happy Olina, you will have the best Service, high quality sculpture with your favorate frame plus the cheapest price in Australia. Why not choose Happy Olina? Once you come Happy Olina's home, you will not only have your fantastic sculpture but also have one good friend, Happy Olina.</p>
+					
+					<li>If we have more than two babies, is it still ok to have those sculptures on one frame? </li>
+					<p>Yes, if you have more than 2 babies, we are more happy to have a discussion with you and come out a special one which definately accommodate your need.</p>
+					
+					<li>If we are not babies, is it still ok to have this sculpture? </li>
+					<p>Yes, it is still ok to have a scuplture for your baby, no matter how old he/she is, no age limitation. We would like to create the nice gift and help you keep the good memory for the baby and adult with our special designing.</p>
+					
+					<li>Do you have coming to house service?</li>
+					<p>Yes. For some reasons you could not come to us for the casting, we can come to you by appointment only. Charge starts from $20 dollar, depends on the kms.</p>
+					
+					<li>How long do we need to wait to pick up the sculpture? </li>
+					<p>Usually, it takes 2 to 3 weeks to accomplish the job. Please let us know if you need it urgently, we will try our best to arrange a new pick up date.</p>
+					
+					<li>How big is the product? </li>
+					<ul>
+						<li>Big one (around 60cm X 35cm) depends on the frame</li>
+						<li>Medium one (around 45cm X 35cm) depends on the frame </li>
+						<li>Small one (around 30cm X 26cm) depends on the frame </li>
+					</ul>
+					
+				</ol>
+			
+			
+			</p>
+				
 
 		</div>
 	</div>
