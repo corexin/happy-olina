@@ -55,7 +55,7 @@
 				
     	        <h3>2 Hands and 2 Feet</h3>
 				<div>
-					<a href="img/product/handfoot1.jpg" target="blank">
+					<a href="img/product/handsfoots1.jpg" target="blank">
 						<img src="img/product/handsfoots1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
 					</a>
 					<p>2 Hands and 2 Feet</p>
