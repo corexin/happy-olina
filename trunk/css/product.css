@@ -12,6 +12,8 @@
 	float:left;
 	margin:10px;
 	width:310px;
+	border:5px solid #9966CC;;
+	text-align:center;
 }
 
 #product_index >div p
