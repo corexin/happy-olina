@@ -43,7 +43,7 @@ $(document).ready(function() {
 	/** copy from internet */
 	$(window).scroll( function() {
 		var diffY = $(window).scrollTop();//页面现在的位置和滚动条顶端的距离[scrollTop()]
-		var diffH = $(window).height()-140;//设计者期望的浮动栏与浏览器顶端的距离[height()],这里是与浏览器顶端保持1/4个页面的高度,如果diffH的值设置成0,浮动栏就会落在屏幕顶端
+		var diffH = $(window).height()-150;//设计者期望的浮动栏与浏览器顶端的距离[height()],这里是与浏览器顶端保持1/4个页面的高度,如果diffH的值设置成0,浮动栏就会落在屏幕顶端
 		var percent=diffY+diffH; //percent将被赋值给css中的"top"属性,作为浮动栏的新高度值
 		if(percent<0){      //判断percent的值是否小于0,小于0就凑整,大于0就忽略小数部分
 			percent=Math.ceil(percent);
@@ -54,9 +54,25 @@ $(document).ready(function() {
 		}
 	});
 	// initialize
-	$("#float-div").css("top",$(window).height()-140 + "px");
+	$("#float-div").css("top",$(window).height()-150 + "px");
 	$("#float-div").show();
-			
+		
+	// setup popup window in product list
+
+ var profiles =
+{
+	windowCenter:
+	{
+		height:500,
+		width:600,
+		center:1,
+		resizable:1,
+		scrollbars:1
+	}
+};
+
+$(".popupwindow").popupwindow(profiles);
+
 }); 
 		
  
