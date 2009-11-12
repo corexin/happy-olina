@@ -7,14 +7,16 @@
 	<div id="content">
 		 <?php include("nav.php"); ?>
 		<div id="mainFrame">
-			<h2>Frequent Asked Questions</h2>
+			<h2 align="left" style="font-family: &quot;Blackadder ITC&quot;; font-size: 3em">Frequent Asked Questions</h2>
 			<img class="floatRight moveDown" src="img/image3-small.jpg" />
 			<p>
-				<ol>
+		  <ol>
 					<li>Is there anything we need to get prepared for this sculpture? Like Photo ?</li>
 					<p>No, we have everything ready for you,all you need is to bring the baby and choose the product you like.If you prefer having the sculpture with a photo, we could help take a good one or you can also Email us your own favioute photo, we will develop and upgrade your photo until you are satified. </p>
 					
-					<li>Is it safe for the babies' skin during making the cast for the babies?</li>
+					<li>
+					  <div align="left">Is it safe for the babies' skin during making the cast for the babies?</div>
+					</li>
 					<p>Absolutely yes. we are using a special and safe material which is originally produced in Germany. It is definately non-toxic to baby skin.We have the safety certificate for our special material.</p>
 					
 					<li>Why choose Happy Olina for your baby hands and feet sculpture? </li>
@@ -39,7 +41,7 @@
 						<li>Small one (around 30cm X 26cm) depends on the frame </li>
 					</ul>
 					
-				</ol>
+		  </ol>
 			
 			
 			</p>
