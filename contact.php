@@ -10,7 +10,7 @@
 			<div id="contactInfo">
 				<h2 class="alignLeft">Contact Information</h2>
 				<ul>
-					<li><span class="label">Address:</span> South Brisbane, QLD 4116</li>
+					<li><span class="label">Address:</span> Brisbane Southside, QLD 4116</li>
 					<li><span class="label">Email:</span> info@happyolina.com.au</li>
 					<li><span class="label">Telephone:</span> 07 3711 6840</li>
 					<li><span class="label">Fax:</span> 07 3711 6840</li>
