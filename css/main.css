@@ -1,42 +1,4 @@
 
-
-#container
-{
-	text-align: left;
-	height:auto;
-	width:1000px;
-	margin-left: auto ;
-	margin-right: auto ;
-	margin-top: 2px;
-	padding:5px;
-	background-color:white;
-	position:relative;
-	color:#9966CC;
-}
-
-#header
-{
-	width:100%;
-	height:200px;
-	background:url('../img/header.jpg') 0 0 no-repeat;
-}
-
-#content
-{
-	padding-top:5px;
-	display:block;
-	width:100%;
-}
-
-#content #nav
-{
-	display:block;
-	float:left;
-	width:180px;
-	height:auto;
-	background:url('../img/navHeading.jpg') top left no-repeat;
-}
-
 #content  #nav ul
 {
 	padding:0;
@@ -75,26 +37,13 @@
 	text-decoration:underline;
 }
 
-#content #mainFrame 
-{
-	float:right;
-	padding:20px 5px 5px 5px;
-	width:802px;
-	border-left:4px solid #BA83CA;
-}
+
 
 .rightTopFlower
 {
 	background: url('../img/rightFlower.gif') top right no-repeat;
 }
 
-#content #mainFrame h2,#content #mainFrame h2.alignLeft
-{
-	text-align:center;
-	margin-bottom:1em;
-	clear:both;
-	width:100%;
-}
 #content #mainFrame h2.alignLeft
 {
 	text-align:left;
@@ -165,7 +114,8 @@
 	display:block;
 	padding:5px 0 5px 200px;
 	background: #EAEAEA url('../img/sofa.gif') center left no-repeat;
-	margin:10px;
+	margin:0 10px 10px 10px;
+
 }
 
 #content #mainFrame #contactInfo ul
@@ -190,23 +140,5 @@
 	line-height:0.5em;
 }
 
-/** footer **/
-
-#footer 
-{
-	color:white;
-	width:1000;
-	height:175px;
-	clear:both;
-	background:url('../img/footer.jpg') 0 0 no-repeat;
-}
-
-#footer p
-{
-	position: absolute;
-	top: 150px;
-	right: 20px;
-	font-size:0.8em;
-}
 
 

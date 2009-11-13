@@ -17,3 +17,10 @@
 	<link rel="stylesheet" type="text/css" href="css/common.css" />
 </head>
 <body>
+ 
+<div id="container">
+
+	<div id="header"></div>
+	
+	<div id="content">
+		<?php include("nav.php"); ?>

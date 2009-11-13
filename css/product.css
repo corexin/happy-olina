@@ -1,53 +1,88 @@
-#product_index
+#product-list
 {
 	width:98%;
 	padding:10px;
-	display:inline-block;
 	height:auto;
-	
 }
 
-#product_index >div
+div.category
+{
+	height:60px;
+	width:100%;
+	clear:both;
+	margin-top:15px;
+}
+
+div.category div
+{
+	background:url(../img/icon/foot.jpg) 0 0 no-repeat;
+	height:50px;
+	width:150px;
+	float:left;
+	padding-left:50px;
+}
+ 
+div.category a:hover
+{
+	cursor:hand;
+}
+
+div.category a
+{
+	color:#9900ff;
+}
+
+#product-list >div
+{
+	width:100%;
+	margin:1px;
+	display:block;
+}
+#product-list >div>div
 {
 	float:left;
 	margin:10px;
-	width:310px;
-	border:5px solid #9966CC;;
-	text-align:center;
+	width:98%;
+	height:auto;
+	font-weight: bold;
 }
 
-#product_index >div p
+#product-list >div>div p
 {
-	margin-top:0;
-	text-align:center;
-	font-family:cursive;
-	font-size:1.2em;
-	font-weight:1.1em;
+	margin-top:1.2em;
+	color:#9900ff;
 }
 
-#product_index >div img
+#product-list >div>div>a, #product-list >div>div>p
+{
+	float:left;
+	width:45%;
+}
+
+#product-list >div img
 {
 	width:300px;
 	height:200px;
 	margin:10px 10px 0 5px;
+	valign:middle;
 }
 
-#product_index >div img.long
+#product-list >div img.long
 {
 	width:250px;
 	height:300px;
 	margin:10px;
 }
 
-#product_index .miniImage p
+#product-list h2
 {
 	text-align:center;
+	border-top:2px solid red;
+	margin-top:2em;
+	padding-top:1.2em;
 }
 
-#product_index h3
-{
-	clear:both;
-	width:99%;
-	padding:5px;
-	border-bottom:2px solid 
-}
+ #product-list  h4
+ {
+	text-align:center;
+ }

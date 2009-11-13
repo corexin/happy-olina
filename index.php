@@ -1,4 +1,15 @@
-<?php include("header.php"); ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<title>Happyolina - Feet and Hand Sculpture Collections</title>
+	<meta name="description" content="Australia Baby hand and feet sculpture collection" /> 
+	<meta name="keywords" content="HappyOlina Australia Brisbane Baby Love Hand Foot Sculpture" />
+
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+	<link rel="stylesheet" type="text/css" href="css/enter.css" />
+	<link rel="stylesheet" type="text/css" href="css/common.css" />
+</head>
+<body>
  
 <div id="enter_container">
 

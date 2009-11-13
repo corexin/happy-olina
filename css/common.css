@@ -8,14 +8,66 @@ body
 { 
 	font-style:  sans-serif;
 	font-size: 1em;
-	line-height:1.3em;
 	text-align: center;
 	background-image: url('../img/bg.jpg');
 }
 
+#container
+{
+	text-align: left;
+	height:auto;
+	width:1000px;
+	margin-left: auto ;
+	margin-right: auto ;
+	margin-top: 2px;
+	padding:5px;
+	background-color:white;
+	position:relative;
+	color:#9966CC;
+}
+
+#header
+{
+	width:100%;
+	height:200px;
+	background:url('../img/header.jpg') 0 0 no-repeat;
+}
+
+#content #mainFrame 
+{
+	position:relative;
+	float:right;
+	padding:10px 5px 5px 5px;
+	width:802px;
+	border-left:4px solid #BA83CA;
+	height:auto;
+}
+
+#content
+{
+	padding-top:5px;
+	display:block;
+	width:100%;
+}
+
+#content #nav
+{
+	display:block;
+	float:left;
+	width:180px;
+	height:auto;
+	background:url('../img/navHeading.jpg') top left no-repeat;
+}
+
+#mainFrame p
+{
+	font-family: Georgia;
+	font-size: 12px;
+}
+
 img
 {
-	border: 0px;
+	border:0px;
 }
 
 .phone, .email
@@ -35,6 +87,11 @@ img
 {
 	float:right;
 	margin:5px;
+}
+
+.paddingLeft200px
+{
+	padding-left:200px;
 }
 
 .clearBoth
@@ -72,3 +129,49 @@ hr
 	margin:10px;
 	color:#9966CC;
 }
+
+h2
+{
+	font-family: Georgia;
+	color: #9900FF; 
+	font-size: 18px; 
+	font-weight: bold;
+	text-align:left;
+	margin-left:5px;
+}
+
+h4
+{
+	font-family: Georgia;
+	color: #9900FF; 
+	font-size: 12px; 
+	font-weight: bold;
+	text-align:left;
+	margin-left:5px;
+}
+
+.moveDown
+{
+	margin-top:50px;
+}
+
+
+
+.alignCenter
+{
+	text-align:center;
+}
+
+
+/** footer **/
+
+#footer 
+{
+	display:block;
+	width:1000px;
+	height:155px;
+	clear:both;
+	background:url('../img/footer.jpg') 0 0 no-repeat;
+	margin-top:2em;
+}
+
