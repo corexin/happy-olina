@@ -169,36 +169,36 @@
 		<div align="center">
           <table width="648" height="1029" border="0" bordercolor="#000000">
             <tr>
-              <th width="314" height="166" bordercolor="#FFFFFF" bgcolor="#FFFFFF" scope="col"><p align="center"><img src="test/Prodcut/product photo/two hands and two feet/8.jpg" alt="" width="230" height="130" /></p></th>
-              <th width="316" bordercolor="#9900FF" scope="col"><p align="center" class="STYLE15">&nbsp;</p>
-                  <p align="center" class="STYLE15" style="color: #9900FF; font-weight: bold; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">Brown Frame &amp; Milky White Matt</p>
-                <p align="center" class="STYLE15" style="color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; font-weight: bold">Gold Casting &amp; Gold Name Plate </p>
-                <p align="center" class="STYLE4 STYLE6 STYLE23">&nbsp;</p></th>
+              <th width="314" height="166" bordercolor="#FFFFFF" bgcolor="#FFFFFF" scope="col"><p align="left"><img src="test/Prodcut/product photo/two hands and two feet/8.jpg" alt="" width="230" height="130" /></p></th>
+              <th width="316" bordercolor="#9900FF" scope="col"><p align="left" class="STYLE15">&nbsp;</p>
+                  <p align="left" class="STYLE15" style="color: #9900FF; font-weight: bold; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">Brown Frame &amp; Milky White Matt</p>
+                <p align="left" class="STYLE15" style="color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; font-weight: bold">Gold Casting &amp; Gold Name Plate </p>
+                <p align="left" class="STYLE4 STYLE6 STYLE23">&nbsp;</p></th>
             </tr>
             <tr>
-              <th height="166" scope="row"><p align="center"><img src="test/Prodcut/product photo/two hands and two feet/10.jpg" alt="" width="230" height="130" /></p></th>
-              <th><p align="center" class="STYLE15"><span style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif"><span style="font-size: 12px"><span style="color: #9900FF"><span style="font-weight: bold">Coffee Frame &amp; Green Matt</span></span></span></span></p>
-                  <p align="center" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF; font-weight: bold">Gold Casting &amp; Gold Name Plate </p></th>
+              <th height="166" scope="row"><p align="left"><img src="test/Prodcut/product photo/two hands and two feet/10.jpg" alt="" width="230" height="130" /></p></th>
+              <th><p align="left" class="STYLE15"><span style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif"><span style="font-size: 12px"><span style="color: #9900FF"><span style="font-weight: bold">Coffee Frame &amp; Green Matt</span></span></span></span></p>
+                  <p align="left" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF; font-weight: bold">Gold Casting &amp; Gold Name Plate </p></th>
             </tr>
             <tr>
-              <th height="166" scope="row"> <p align="center"><img src="test/Prodcut/product photo/two hands and two feet/13.jpg" alt="" width="230" height="130" /></p></th>
-              <td><p align="center" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF; font-weight: bold">Pearl White Frame &amp; Pink Matt</p>
-                  <p align="center" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF; font-weight: bold">Gold Casting &amp; Gold Name Plate </p></td>
+              <th height="166" scope="row"> <p align="left"><img src="test/Prodcut/product photo/two hands and two feet/13.jpg" alt="" width="230" height="130" /></p></th>
+              <td><p align="left" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF; font-weight: bold">Pearl White Frame &amp; Pink Matt</p>
+                  <p align="left" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF; font-weight: bold">Gold Casting &amp; Gold Name Plate </p></td>
             </tr>
             <tr>
-              <th height="166" scope="row"><p align="center" class="STYLE3"><img src="test/Prodcut/product photo/two hands and two feet/5.jpg" alt="" width="230" height="130" /></p></th>
-              <td><p align="center" class="STYLE15"><span style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif"><span style="font-size: 12px"><span style="color: #9933FF"><span style="color: #000000"><span style="color: #9900FF"><span style="font-weight: bold">Silver Green  Frame &amp; Green Matt</span></span></span></span></span></span></p>
-                  <p align="center" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF; font-weight: bold">Gold Casting &amp; Gold Name Plate </p></td>
+              <th height="166" scope="row"><p align="left" class="STYLE3"><img src="test/Prodcut/product photo/two hands and two feet/5.jpg" alt="" width="230" height="130" /></p></th>
+              <td><p align="left" class="STYLE15"><span style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif"><span style="font-size: 12px"><span style="color: #9933FF"><span style="color: #000000"><span style="color: #9900FF"><span style="font-weight: bold">Silver Green  Frame &amp; Green Matt</span></span></span></span></span></span></p>
+                  <p align="left" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF; font-weight: bold">Gold Casting &amp; Gold Name Plate </p></td>
             </tr>
             <tr>
-              <th height="166" scope="row"><p align="center" class="STYLE3"><img src="test/Prodcut/product photo/two hands and two feet/7.jpg" alt="" width="230" height="130" /></p></th>
-              <td><p align="center" class="STYLE15"><span style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif"><span style="font-size: 12px"><span style="color: #9900FF"><span style="font-weight: bold">Magenta Frame &amp; Pink Matt</span></span></span></span></p>
-                  <p align="center" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF; font-weight: bold">Gold Casting &amp; Gold Name Plate </p></td>
+              <th height="166" scope="row"><p align="left" class="STYLE3"><img src="test/Prodcut/product photo/two hands and two feet/7.jpg" alt="" width="230" height="130" /></p></th>
+              <td><p align="left" class="STYLE15"><span style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif"><span style="font-size: 12px"><span style="color: #9900FF"><span style="font-weight: bold">Magenta Frame &amp; Pink Matt</span></span></span></span></p>
+                  <p align="left" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF; font-weight: bold">Gold Casting &amp; Gold Name Plate </p></td>
             </tr>
             <tr>
-              <th height="181" scope="row"><p align="center" class="STYLE3"><img src="test/Prodcut/product photo/two hands and two feet/11.jpg" alt="" width="230" height="130" /></p></th>
-              <td><p align="center" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; font-weight: bold; color: #9900FF">Field Green Frame &amp; Green Matt</p>
-                  <p align="center" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; font-weight: bold; color: #9900FF">Silver Casting &amp; Silver Name Plate</p></td>
+              <th height="181" scope="row"><p align="left" class="STYLE3"><img src="test/Prodcut/product photo/two hands and two feet/11.jpg" alt="" width="230" height="130" /></p></th>
+              <td><p align="left" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; font-weight: bold; color: #9900FF">Field Green Frame &amp; Green Matt</p>
+                  <p align="left" class="STYLE15" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; font-weight: bold; color: #9900FF">Silver Casting &amp; Silver Name Plate</p></td>
             </tr>
           </table>
 	  </div>
