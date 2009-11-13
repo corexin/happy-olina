@@ -160,113 +160,152 @@
 
 	<div id="header"></div>
 	
-	<div id="content">
+  <div id="content">
 		<?php include("nav.php"); ?>
-		<div id="mainFrame">
-			<h2 >Our products</h2>
-			<div id="product_index">
-				<h3>Special Deal Of This Week</h3>
-				<div>
-					<a class="popupwindow"  rel="windowCenter"  href="img/product/handsfoots1.jpg" >
-						<img src="img/product/handsfoots1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p class="special">Special deal of the week</p>
-				</div>
-				
-				<h3>One Hand and One Foot</h3>
-				<div>
-					<a class="popupwindow"  rel="windowCenter"   href="img/product/handfoot1.jpg" >
-						<img  src="img/product/handfoot1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>One Hand and One Foot</p>
-				</div>
-				<div>
-					<a class="popupwindow"  rel="windowCenter"   href="img/product/handfoot2.jpg" >
-						<img class="long" src="img/product/handfoot2.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>One Hand and One Foot</p>
-				</div>
-				
-				<h3>Hand Only</h3>
-				<div>
-					<a class="popupwindow"  rel="windowCenter"   href="img/product/hand1.jpg"  >
-						<img class="long" src="img/product/hand1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>One Hand</p>
-				</div>
-				
-				<h3>Foot Only</h3>
-				<div>
-					<a class="popupwindow"  rel="windowCenter"   href="img/product/foot1.jpg" >
-						<img src="img/product/foot1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>Foot only</p>
-				</div>
-				<div>
-					<a class="popupwindow"  rel="windowCenter"   href="img/product/foot2.jpg"  >
-						<img src="img/product/foot2.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>Foot only</p>
-				</div>
-				
-    	        <h3>2 Hands and 2 Feet</h3>
-				<div>
-					<a class="popupwindow"  rel="windowCenter"  href="img/product/handsfoots1.jpg" >
-						<img src="img/product/handsfoots1.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>2 Hands and 2 Feet</p>
-				</div>
-				<div>
-					<a class="popupwindow"  rel="windowCenter"  href="img/product/handsfoots2.jpg" >
-						<img src="img/product/handsfoots2.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>2 Hands and 2 Feet</p>
-				</div>    
-				<div>
-					<a class="popupwindow"  rel="windowCenter"  href="img/product/handsfoots3.jpg" >
-						<img src="img/product/handsfoots3.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-
-					</a>
-					<p>2 Hands and 2 Feet</p>
-				</div>  
-				<div>
-					<a class="popupwindow"  rel="windowCenter"  href="img/product/handsfoots4.jpg" >
-						<img src="img/product/handsfoots4.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>2 Hands and 2 Feet</p>
-				</div>  
-				<div>
-					<a class="popupwindow"  rel="windowCenter"  href="img/product/handsfoots5.jpg" >
-						<img src="img/product/handsfoots5.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>2 Hands and 2 Feet</p>
-				</div>  
-				<div>
-					<a class="popupwindow"  rel="windowCenter"  href="img/product/handsfoots6.jpg" >
-						<img src="img/product/handsfoots6.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-
-					</a>
-					<p>2 Hands and 2 Feet</p>
-				</div>  
-				<div>
-					<a class="popupwindow"  rel="windowCenter"  href="img/product/handsfoots7.jpg" >
-						<img src="img/product/handsfoots7.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>2 Hands and 2 Feet</p>
-				</div>  
-				<div>
-					<a class="popupwindow"  rel="windowCenter"  href="img/product/handsfoots8.jpg" >
-						<img src="img/product/handsfoots8.jpg" alt="HappyOlina Hand and Foot Sculpture" />
-					</a>
-					<p>2 Hands and 2 Feet</p>
-				</div> 
-				
-				
-			</div>
-			
-		</div>
+	<div id="mainFrame">
+		<p align="center" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF">&nbsp;</p>
+		<p align="center" style="font-weight: bold; color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 16px"><span style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF"><img src="test/Prodcut/product 图标/product 图标1.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标2.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标4.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标5.jpg" alt="" width="141" height="54" /></span></p>
+		<p align="center" style="font-weight: bold; color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px"><strong><strong>Two Hands And Two Feet With Photo: $180 </strong></strong></p>
+		<p align="center" style="color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">(Size: around 60cm x35cm depends on the frame) </p>
+		<div align="center">
+          <table width="648" height="1029" border="0" bordercolor="#000000">
+            <tr>
+              <th width="314" height="166" bordercolor="#FFFFFF" bgcolor="#FFFFFF" scope="col"><p align="center"><img src="test/Prodcut/product photo/two hands and two feet/8.jpg" alt="" width="230" height="130" /></p></th>
+              <th width="316" bordercolor="#9900FF" scope="col"><p align="center" class="STYLE15">&nbsp;</p>
+                  <p align="center" class="STYLE15">Brown Frame &amp; Milky White Matt</p>
+                <p align="center" class="STYLE15">Gold Casting &amp; Gold Name Plate </p>
+                <p align="center" class="STYLE4 STYLE6 STYLE23">&nbsp;</p></th>
+            </tr>
+            <tr>
+              <th height="166" scope="row"><p align="center"><img src="test/Prodcut/product photo/two hands and two feet/10.jpg" alt="" width="230" height="130" /></p></th>
+              <th><p align="center" class="STYLE15"><strong>Coffee Frame</strong> <strong>&amp; Green Matt</strong></p>
+                  <p align="center" class="STYLE15">Gold Casting &amp; Gold Name Plate </p></th>
+            </tr>
+            <tr>
+              <th height="166" scope="row"> <p align="center"><img src="test/Prodcut/product photo/two hands and two feet/13.jpg" alt="" width="230" height="130" /></p></th>
+              <td><p align="center" class="STYLE15">Pearl White Frame &amp; Pink Matt</p>
+                  <p align="center" class="STYLE15">Gold Casting &amp; Gold Name Plate </p></td>
+            </tr>
+            <tr>
+              <th height="166" scope="row"><p align="center" class="STYLE3"><img src="test/Prodcut/product photo/two hands and two feet/5.jpg" alt="" width="230" height="130" /></p></th>
+              <td><p align="center" class="STYLE15"><strong>Silver Green  Frame</strong> <strong>&amp; Green Matt</strong></p>
+                  <p align="center" class="STYLE15">Gold Casting &amp; Gold Name Plate </p></td>
+            </tr>
+            <tr>
+              <th height="166" scope="row"><p align="center" class="STYLE3"><img src="test/Prodcut/product photo/two hands and two feet/7.jpg" alt="" width="230" height="130" /></p></th>
+              <td><p align="center" class="STYLE15"><strong>Magenta Frame</strong> <strong>&amp; Pink Matt</strong></p>
+                  <p align="center" class="STYLE15">Gold Casting &amp; Gold Name Plate </p></td>
+            </tr>
+            <tr>
+              <th height="181" scope="row"><p align="center" class="STYLE3"><img src="test/Prodcut/product photo/two hands and two feet/11.jpg" alt="" width="230" height="130" /></p></th>
+              <td><p align="center" class="STYLE15">Field Green Frame &amp; Green Matt</p>
+                  <p align="center" class="STYLE15">Silver Casting &amp; Silver Name Plate</p></td>
+            </tr>
+          </table>
+	  </div>
+		<p align="center">&nbsp;</p>
+		<p align="center" class="STYLE26">Two Hands And Two Feet Without Photo: $150</p>
+		<p align="center" style="color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">( Size: around 45cm x35cm depends on the frame) </p>
+		<div align="center">
+          <table width="648" height="368" border="0" bordercolor="#000000">
+            <tr>
+              <th width="314" height="166" scope="col"><p align="center"><img src="test/Prodcut/product photo/two hands and two feet/6.jpg" alt="" width="180" height="130" /></p></th>
+              <th width="316" scope="col"><p align="center" class="STYLE15">Magenta Frame &amp; Pink Matt</p>
+                  <p align="center" class="STYLE15">Gold Casting &amp; Gold Name Plate </p></th>
+            </tr>
+            <tr>
+              <th height="192" scope="row"><p align="center"><img src="test/Prodcut/product photo/two hands and two feet/9.jpg" alt="" width="180" height="130" /></p></th>
+              <td><p align="center" class="STYLE4"><span class="STYLE6"><span class="STYLE11"><span class="STYLE13"><span class="STYLE14"><span class="STYLE16"><span class="STYLE22">Dark Green Frame &amp; Green Matt</span></span></span></span></span></span></p>
+                  <p align="center" class="STYLE15">Gold Casting &amp; Gold Name Plate </p></td>
+            </tr>
+          </table>
+	  </div>
+		<p align="center">&nbsp;</p>
+		<p align="center">&nbsp;</p>
+		<div align="center">
+          <p align="center" class="STYLE26">One Hand And One Foot With Photo: $150</p>
+		  <p align="center" class="STYLE18">(Size: around 45cmx35cm depends on the frame) </p>
+		  <div align="center">
+            <table width="648" height="169" border="0" bordercolor="#000000">
+              <tr>
+                <th width="314" height="161" scope="col"><div align="center">
+                    <p><span class="STYLE27"><strong><span class="STYLE28"><img src="test/Prodcut/product photo/one hand one foot/12.jpg" alt="" width="140" height="190" /></span></strong></span></p>
+                </div></th>
+                <th width="316" scope="col"><p align="center" class="STYLE18">Pearl White Frame &amp; Milky White Matt</p>
+                    <p align="center" class="STYLE18">Gold Casting &amp; Gold Name Plate</p></th>
+              </tr>
+            </table>
+		    <p>&nbsp;</p>
+		    <p class="STYLE26">One Hand And One Foot Without Photo: $120</p>
+		    <p class="STYLE18">(Size: around 30cmx26cm depends on the frame) </p>
+		    <table width="648" height="166" border="0" bordercolor="#000000">
+              <tr>
+                <th width="314" height="158" scope="row"><div align="center">
+                    <p><span class="STYLE4"><span class="STYLE11"><span class="STYLE13"><strong><span class="STYLE28"><img src="test/Prodcut/product photo/one hand one foot/4.jpg" alt="" width="170" height="120" /></span></strong></span></span></span></p>
+                </div></th>
+                <th width="316"><p align="center" class="STYLE18">&nbsp;</p>
+                    <p align="center" class="STYLE18"><strong>Coffee Frame</strong> <strong>&amp; Chocolate Matt</strong></p>
+                  <p align="center" class="STYLE15"><span class="STYLE18">Gold Casting &amp; Gold Name Plate</span> </p>
+                  <p align="center" class="STYLE15">&nbsp;</p></th>
+              </tr>
+            </table>
+	      </div>
+		  <p>&nbsp;</p>
+	  </div>
+		<p align="center" class="STYLE26">&nbsp;</p>
+		<p align="center" class="STYLE26">&nbsp;</p>
+		<p align="center" class="STYLE26">Two Feet With Photo: $150</p>
+		<p align="center" class="STYLE18">(Size: around 45cmx35cm depends on the frame) </p>
+		<div align="center">
+          <table width="648" height="169" border="0" bordercolor="#000000">
+            <tr>
+              <th width="314" height="161" scope="col"><div align="center">
+                  <p><img src="test/Prodcut/product photo/two feet/2.jpg" alt="" width="190" height="140" /></p>
+              </div></th>
+              <th width="316" scope="col"><p align="center" class="STYLE18">Grey Frame &amp; Dark Blue Matt</p>
+                  <p align="center" class="STYLE18">Silver Casting &amp; Silver Name Plate </p></th>
+            </tr>
+          </table>
+		  <p>&nbsp;</p>
+		  <p align="center" class="STYLE26">Two Feet Without Photo: $120</p>
+		  <p align="center" class="STYLE18">(Size: around 30cmx26cm depends on the frame) </p>
+		  <table width="648" height="166" border="0" bordercolor="#000000">
+            <tr>
+              <th width="314" height="158" scope="row"><div align="center">
+                  <p><img src="test/Prodcut/product photo/two feet/3.jpg" alt="" width="170" height="120" /></p>
+              </div></th>
+              <th width="316"><p align="center" class="STYLE18">Brown Frame &amp; Dark Red Matt</p>
+                  <p align="center" class="STYLE18">Gold Casting &amp; Gold Name Plate</p></th>
+            </tr>
+          </table>
+	  </div>
+		<p align="center" class="STYLE1">&nbsp;</p>
+		<p align="center" class="STYLE1">&nbsp;</p>
+		<p align="center" class="STYLE1"><span class="STYLE26">One Hand  Without Photo: $80</span></p>
+		<div align="center">
+          <p align="center" class="STYLE18">(Size: around 30cmx26cm depends on the frame) </p>
+		  <table width="648" height="200" border="0" bordercolor="#000000">
+            <tr>
+              <th width="314" height="192" scope="row"><div align="center">
+                  <p><span class="STYLE4"><span class="STYLE11"><span class="STYLE13"><strong><span class="STYLE28"><img src="test/Prodcut/product photo/1.jpg" alt="" width="120" height="150" /></span></strong></span></span></span></p>
+              </div></th>
+              <th width="316"><p align="center" class="STYLE4">&nbsp;</p>
+                  <p align="center" class="STYLE4">&nbsp;</p>
+                <p align="center" class="STYLE18"><strong>Reddish Brown  Frame</strong> <strong>&amp; Green Matt</strong></p>
+                <p align="center" class="STYLE18">Gold Casting &amp; Gold Name Plate </p>
+                <p align="center" class="STYLE18">&nbsp;</p>
+                <p align="center" class="STYLE15">&nbsp;</p></th>
+            </tr>
+          </table>
+	  </div>
+		<p></p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<h2 >&nbsp;</h2>
+	</div>
 	</div>
 	
 	
->>>>>>> .r217
-<?php include("footer.php"); ?>
+  <?php include("footer.php"); ?>
