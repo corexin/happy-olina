@@ -2,7 +2,7 @@
 <!--
 .STYLE1 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: bold;
 }
 -->
