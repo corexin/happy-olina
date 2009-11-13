@@ -7,7 +7,7 @@
 	<div id="content">
 		 <?php include("nav.php"); ?>
 		<div id="mainFrame">
-		  <h2 align="left" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 2em">Frequent Asked Questions</h2>
+		  <h2 align="left" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; font-weight: bold; color: #9900FF">Frequent Asked Questions</h2>
 			<img class="floatRight moveDown" src="img/image3-small.jpg" />
 			<p>
 		  <ol>

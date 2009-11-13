@@ -7,7 +7,7 @@
 	<div id="content">
 		<?php include("nav.php"); ?>
 		<div id="mainFrame" class="rightTopFlower">
-			<h2 style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Welcome to Happy Olina</h2>
+			<h2 style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; color: #9900FF; font-size: 18px; font-weight: bold">Welcome to Happy Olina</h2>
 			<img class="floatLeft" src="img/image1-small.jpg" />
 			<div class="textOnRight">
 				<p class="ulHeading" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">We specialize in Baby Hand and Feet sculptures.</p>
