@@ -163,8 +163,7 @@
   <div id="content">
 		<?php include("nav.php"); ?>
 	<div id="mainFrame">
-		<p align="center" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF">&nbsp;</p>
-		<p align="center" style="font-weight: bold; color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 16px"><span style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF"><img src="test/Prodcut/product 图标/product 图标1.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标2.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标4.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标5.jpg" alt="" width="141" height="54" /></span></p>
+	  <p align="center" style="font-weight: bold; color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 16px"><span style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF"><img src="test/Prodcut/product 图标/product 图标1.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标2.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标4.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标5.jpg" alt="" width="141" height="54" /></span></p>
 		<p align="center" style="font-weight: bold; color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px"><strong><strong>Two Hands And Two Feet With Photo: $180 </strong></strong></p>
 		<p align="center" style="color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">(Size: around 60cm x35cm depends on the frame) </p>
 		<div align="center">
@@ -298,13 +297,7 @@
             </tr>
           </table>
 	  </div>
-		<p></p>
-		<p>&nbsp;</p>
-		<p>&nbsp;</p>
-		<p>&nbsp;</p>
-		<p>&nbsp;</p>
-		<h2 >&nbsp;</h2>
-	</div>
+		</div>
 	</div>
 	
 	
