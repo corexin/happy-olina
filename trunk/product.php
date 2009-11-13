@@ -164,8 +164,8 @@
 		<?php include("nav.php"); ?>
 	<div id="mainFrame">
 	  <p align="center" style="font-weight: bold; color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 16px"><span style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF"><img src="test/Prodcut/product 图标/product 图标1.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标2.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标4.jpg" alt="" width="141" height="54" /><img src="test/Prodcut/product 图标/product 图标5.jpg" alt="" width="141" height="54" /></span></p>
-		<p align="center" style="font-weight: bold; color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px"><strong><strong>Two Hands And Two Feet With Photo: $180 </strong></strong></p>
-		<p align="center" style="color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">(Size: around 60cm x35cm depends on the frame) </p>
+		<p align="left" style="font-weight: bold; color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px"><strong><strong>Two Hands And Two Feet With Photo: $180 </strong></strong></p>
+		<p align="left" style="color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">(Size: around 60cm x35cm depends on the frame) </p>
 		<div align="center">
           <table width="648" height="1029" border="0" bordercolor="#000000">
             <tr>
@@ -203,8 +203,8 @@
           </table>
 	  </div>
 		<p align="center">&nbsp;</p>
-		<p align="center" class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF; font-weight: bold">Two Hands And Two Feet Without Photo: $150</p>
-		<p align="center" style="color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">( Size: around 45cm x35cm depends on the frame) </p>
+		<p align="left" class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF; font-weight: bold">Two Hands And Two Feet Without Photo: $150</p>
+		<p align="left" style="color: #9900FF; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">( Size: around 45cm x35cm depends on the frame) </p>
 		<div align="center">
           <table width="648" height="368" border="0" bordercolor="#000000">
             <tr>
@@ -222,8 +222,8 @@
 		<p align="center">&nbsp;</p>
 		<p align="center">&nbsp;</p>
 		<div align="center">
-          <p align="center" class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; font-weight: bold; color: #9900FF">One Hand And One Foot With Photo: $150</p>
-		  <p align="center" class="STYLE18" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF">(Size: around 45cmx35cm depends on the frame) </p>
+          <p align="left" class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; font-weight: bold; color: #9900FF">One Hand And One Foot With Photo: $150</p>
+		  <p align="left" class="STYLE18" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF">(Size: around 45cmx35cm depends on the frame) </p>
 		  <div align="center">
             <table width="648" height="169" border="0" bordercolor="#000000">
               <tr>
@@ -235,8 +235,8 @@
               </tr>
             </table>
 		    <p>&nbsp;</p>
-		    <p class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF; font-weight: bold">One Hand And One Foot Without Photo: $120</p>
-		    <p class="STYLE18" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF">(Size: around 30cmx26cm depends on the frame) </p>
+		    <p align="left" class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF; font-weight: bold">One Hand And One Foot Without Photo: $120</p>
+		    <p align="left" class="STYLE18" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF">(Size: around 30cmx26cm depends on the frame) </p>
 		    <table width="648" height="166" border="0" bordercolor="#000000">
               <tr>
                 <th width="314" height="158" scope="row"><div align="center">
@@ -253,8 +253,8 @@
 	  </div>
 		<p align="center" class="STYLE26">&nbsp;</p>
 		<p align="center" class="STYLE26">&nbsp;</p>
-		<p align="center" class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF; font-weight: bold">Two Feet With Photo: $150</p>
-		<p align="center" class="STYLE18" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF">(Size: around 45cmx35cm depends on the frame) </p>
+		<p align="left" class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF; font-weight: bold">Two Feet With Photo: $150</p>
+		<p align="left" class="STYLE18" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF">(Size: around 45cmx35cm depends on the frame) </p>
 		<div align="center">
           <table width="648" height="169" border="0" bordercolor="#000000">
             <tr>
@@ -266,8 +266,8 @@
             </tr>
           </table>
 		  <p>&nbsp;</p>
-		  <p align="center" class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF; font-weight: bold">Two Feet Without Photo: $120</p>
-		  <p align="center" class="STYLE18" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF">(Size: around 30cmx26cm depends on the frame) </p>
+		  <p align="left" class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF; font-weight: bold">Two Feet Without Photo: $120</p>
+		  <p align="left" class="STYLE18" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF">(Size: around 30cmx26cm depends on the frame) </p>
 		  <table width="648" height="166" border="0" bordercolor="#000000">
             <tr>
               <th width="314" height="158" scope="row"><div align="center">
@@ -280,12 +280,12 @@
 	  </div>
 		<p align="center" class="STYLE1">&nbsp;</p>
 		<p align="center" class="STYLE1">&nbsp;</p>
-		<p align="center" class="STYLE1"><span class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF; font-weight: bold">One Hand  Without Photo: $80</span></p>
+		<p align="left" class="STYLE1"><span class="STYLE26" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 18px; color: #9900FF; font-weight: bold">One Hand  Without Photo: $80</span></p>
+		<p align="left" class="STYLE1"><span class="STYLE18" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF">(Size: around 30cmx26cm depends on the frame) </span></p>
 		<div align="center">
-          <p align="center" class="STYLE18" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px; color: #9900FF">(Size: around 30cmx26cm depends on the frame) </p>
-		  <table width="648" height="200" border="0" bordercolor="#000000">
+		  <table width="648" height="243" border="0" bordercolor="#000000">
             <tr>
-              <th width="314" height="192" scope="row"><div align="center">
+              <th width="314" height="239" scope="row"><div align="center">
                   <p><span class="STYLE4"><span class="STYLE11"><span class="STYLE13"><strong><span class="STYLE28"><img src="test/Prodcut/product photo/1.jpg" alt="" width="120" height="150" /></span></strong></span></span></span></p>
               </div></th>
               <th width="316"><p align="center" class="STYLE4">&nbsp;</p>
@@ -297,7 +297,7 @@
             </tr>
           </table>
 	  </div>
-		</div>
+	</div>
 	</div>
 	
 	
