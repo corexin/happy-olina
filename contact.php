@@ -8,7 +8,7 @@
 		 <?php include("nav.php"); ?>
 		<div id="mainFrame">
 			<div id="contactInfo">
-				<h2 class="alignLeft" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Contact Information</h2>
+				<h2 class="alignLeft" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; color: #9900FF; font-weight: bold; font-size: 18px">Contact Information</h2>
 				<ul style="font-style: italic">
 					<li style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12"><span class="label">Address:</span> Brisbane Southside, QLD 4116</li>
 					<li style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12"><span class="label">Email:</span> info@happyolina.com.au</li>
@@ -18,7 +18,7 @@
 				</ul>
 			</div>
 			<hr/>
-			<h2 style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Contact us via form</h2>
+			<h2 style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; color: #9900FF; font-size: 18px; font-weight: bold">Contact us via form</h2>
 			<p id="sendEmailResult" class='postback'></p>
 
 			<form id="sendEmailForm" method="post" action="sendEmail.php">
