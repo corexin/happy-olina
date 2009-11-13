@@ -1,0 +1,25 @@
+
+/** contact page **/
+#content #mainFrame #contactInfo
+{
+	display:block;
+	padding:5px 0 5px 200px;
+	background: #EAEAEA url('../img/sofa.gif') center left no-repeat;
+	margin:0 10px 10px 10px;
+
+}
+
+#content #mainFrame #contactInfo ul
+{
+	margin:5px 0 0 5px;
+	padding:0 0 5px 0;
+}
+
+#content #mainFrame #contactInfo ul li
+{
+	list-style-type:none; 
+	padding:0;
+	margin:0;
+}
+ 
+ 
