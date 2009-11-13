@@ -33,16 +33,6 @@ body
 	background:url('../img/header.jpg') 0 0 no-repeat;
 }
 
-#content #mainFrame 
-{
-	position:relative;
-	float:right;
-	padding:10px 5px 5px 5px;
-	width:802px;
-	border-left:4px solid #BA83CA;
-	height:auto;
-}
-
 #content
 {
 	padding-top:5px;
@@ -59,10 +49,22 @@ body
 	background:url('../img/navHeading.jpg') top left no-repeat;
 }
 
+#content #mainFrame 
+{
+	position:relative;
+	float:right;
+	padding:10px 5px 5px 5px;
+	width:802px;
+	border-left:4px solid #BA83CA;
+	height:auto;
+}
+
+
 #mainFrame p
 {
 	font-family: Georgia;
 	font-size: 12px;
+	line-height:1.5em;
 }
 
 img
