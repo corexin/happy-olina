@@ -19,11 +19,13 @@
 	width:auto;
 	padding-left:50px;
 	padding-right:5px;
-	color:#9900ff;
 	display:table-cell;
 	vertical-align:middle;
 }
-
+#category >div a
+{
+	color:#9900ff;
+}
  
 #product-list >div>div
 {
