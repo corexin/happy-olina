@@ -1,26 +1,12 @@
 <?php include("header.php"); ?>
 	<div id="mainFrame">
-<<<<<<< .mine
-		<div class="category">
-			<a href="#oneHand"></a>
-		  <div style="font-size: 14px; font-weight: bold; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif"><a href="#oneHand"><span class="small">One Hand</span></a></div>
-			<a href="#oneHand"></a>
-			
-		    <div class="small" style="font-size: 18px"><a href="#twoFoot" style="font-size: 14px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-weight: bold">Two feet</a></div>
-		  <a href="#oneHandOneFoot"></a>
-		  <div style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-weight: bold"><a href="#oneHandOneFoot" style="font-size: 14px"> One Hand One Foot</a></div>
-		  <a href="#oneHandOneFoot"></a>
-			<a href="#twoHandTwoFoot">
-		  <div style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 14px; font-weight: bold">Two Hand Two Feet</div>
-		  </a>	  </div>
-=======
 		<div id="category">
 			<div><a class="small" href="#oneHand">One Hand</a></div>
 			<div><a class="small" href="#twoFoot">Two feet</a></div>
 			<div><a href="#oneHandOneFoot">One Hand One Foot</a></div>
 			<div><a href="#twoHandTwoFoot">Two Hands Two Feet</a></div>
 		</div>
->>>>>>> .r241
+
 		
 		<div id="product-list">
 			<div id="twoHandTwoFoot">
@@ -28,32 +14,32 @@
 				<h4 >(Size: around 60cm x35cm depends on the frame) </h4>
 
 				<div>
-					<a class="popupwindow" href="img/product/two hands and two feet/8.jpg"><img src="img/product/two hands and two feet/8.jpg" /></a>
+					<a class="popupwindow preview" title="Two hands nad two feet" href="img/product/two hands and two feet/8.jpg"><img src="img/product/two hands and two feet/8.jpg" /></a>
 					<p>Brown Frame &amp; Milky White Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate </p>
 				</div>
 				<div>
-					<a class="popupwindow" href="img/product/two hands and two feet/10.jpg "><img src="img/product/two hands and two feet/10.jpg" /></a>
+					<a class="popupwindow preview"  title="Two hands nad two feet" href="img/product/two hands and two feet/10.jpg "><img src="img/product/two hands and two feet/10.jpg" /></a>
 					<p>Coffee Frame &amp; Green Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate </p>
 				</div>
 				<div>
-					<a class="popupwindow" href="img/product/two hands and two feet/13.jpg "><img src="img/product/two hands and two feet/13.jpg" /></a>
+					<a class="popupwindow preview" title="Two hands nad two feet" href="img/product/two hands and two feet/13.jpg "><img src="img/product/two hands and two feet/13.jpg" /></a>
 					<p>Pearl White Frame &amp; Pink Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate </p>
 				</div>
 				<div>
-					<a class="popupwindow" href="img/product/two hands and two feet/5.jpg "><img src="img/product/two hands and two feet/5.jpg" /></a>
+					<a class="popupwindow preview" title="Two hands nad two feet" href="img/product/two hands and two feet/5.jpg "><img src="img/product/two hands and two feet/5.jpg" /></a>
 					<p>Silver Green  Frame &amp; Green Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate </p>
 				</div>
 				<div>
-					<a class="popupwindow" href="img/product/two hands and two feet/7.jpg "><img src="img/product/two hands and two feet/7.jpg" /></a>
+					<a class="popupwindow preview" title="Two hands nad two feet" href="img/product/two hands and two feet/7.jpg "><img src="img/product/two hands and two feet/7.jpg" /></a>
 					<p>Magenta Frame &amp; Pink Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate </p>
 				</div>
 				<div>
-					<a class="popupwindow" href="img/product/two hands and two feet/11.jpg"><img src="img/product/two hands and two feet/11.jpg" /></a>
+					<a class="popupwindow preview" title="Two hands nad two feet" href="img/product/two hands and two feet/11.jpg"><img src="img/product/two hands and two feet/11.jpg" /></a>
 					<p>Field Green Frame &amp; Green Matt</p>
 					<p>Silver Casting &amp; Silver Name Plate</p>
 				</div>
@@ -64,12 +50,12 @@
 				<h4 >( Size: around 45cm x35cm depends on the frame)</h4>
 	
 				<div>
-					<a class="popupwindow" href="img/product/two hands and two feet/6.jpg"><img src="img/product/two hands and two feet/6.jpg" /></a>
+					<a class="popupwindow preview" href="img/product/two hands and two feet/6.jpg"><img src="img/product/two hands and two feet/6.jpg" /></a>
 					<p>Magenta Frame &amp; Pink Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
 				<div>
-					<a class="popupwindow" href="img/product/two hands and two feet/9.jpg"><img src="img/product/two hands and two feet/9.jpg" /></a>
+					<a class="popupwindow preview" href="img/product/two hands and two feet/9.jpg"><img src="img/product/two hands and two feet/9.jpg" /></a>
 					<p>Dark Green Frame &amp; Green Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
@@ -80,8 +66,8 @@
 				<h2 class="underLine" >One Hand And One Foot With Photo: $150</h2>
 				<h4 >(Size: around 45cmx35cm depends on the frame)</h4>
 	
-				<div class="extra">
-					<a class="popupwindow" href="img/product/one hand one foot/12.jpg"><img class="long" src="img/product/one hand one foot/12.jpg" /></a>
+				<div>
+					<a class="popupwindow preview" href="img/product/one hand one foot/12.jpg"><img class="long" src="img/product/one hand one foot/12.jpg" /></a>
 					<p>Pearl White Frame &amp; Milky White Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
@@ -92,7 +78,7 @@
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
-					<a class="popupwindow" href="img/product/one hand one foot/4.jpg"><img src="img/product/one hand one foot/4.jpg" /></a>
+					<a class="popupwindow preview" href="img/product/one hand one foot/4.jpg"><img src="img/product/one hand one foot/4.jpg" /></a>
 					<p>Coffee Frame &amp; Chocolate Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
@@ -105,7 +91,7 @@
 				<h4 >(Size: around 45cmx35cm depends on the frame)</h4>
 	
 				<div>
-					<a class="popupwindow" href="img/product/two feet/2.jpg"><img src="img/product/two feet/2.jpg" /></a>
+					<a class="popupwindow preview" href="img/product/two feet/2.jpg"><img src="img/product/two feet/2.jpg" /></a>
 					<p>Grey Frame &amp; Dark Blue Matt</p>
 					<p>Silver Casting &amp; Silver Name Plate</p>
 				</div>
@@ -117,7 +103,7 @@
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
-					<a class="popupwindow" href="img/product/two feet/3.jpg"><img src="img/product/two feet/3.jpg" /></a>
+					<a class="popupwindow preview" href="img/product/two feet/3.jpg"><img src="img/product/two feet/3.jpg" /></a>
 					<p>Brown Frame &amp; Dark Red Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
@@ -128,8 +114,8 @@
 				<h2 class="underLine" >One Hand  Without Photo: $80</h2>
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
-				<div class="extra">
-					<a class="popupwindow" href="img/product/1.jpg"><img class="long" src="img/product/1.jpg" /></a>
+				<div>
+					<a class="popupwindow preview" href="img/product/1.jpg"><img class="long" src="img/product/1.jpg" /></a>
 					<p>Reddish Brown  Frame &amp; Green Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
