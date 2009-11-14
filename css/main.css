@@ -38,7 +38,6 @@
 }
 
 
-
 .rightTopFlower
 {
 	background: url('../img/rightFlower.gif') top right no-repeat;
@@ -57,15 +56,6 @@
 #content #mainFrame  .ulHeading
 {	
 	font-weight:bold;
-}
-
-#content #mainFrame p.text,
-{
-	font-size:1em;
-	font-weight: 400;
-	font-family: cursive;
-	letter-spacing:0.01em;
-	word-spacing:0.1px;
 }
 
 #content #mainFrame p.item

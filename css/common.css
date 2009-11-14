@@ -6,7 +6,6 @@ html
 	
 body 
 { 
-	font-style:  sans-serif;
 	font-size: 1em;
 	text-align: center;
 	background-image: url('../img/bg.jpg');
@@ -51,7 +50,6 @@ body
 
 #content #mainFrame 
 {
-	position:relative;
 	float:right;
 	padding:10px 5px 5px 5px;
 	width:802px;
@@ -91,9 +89,9 @@ img
 	margin:5px;
 }
 
-.paddingLeft200px
+.paddingLeft210px
 {
-	padding-left:200px;
+	padding-left:210px;
 }
 
 .clearBoth
@@ -142,6 +140,10 @@ h2
 	margin-left:5px;
 }
 
+.underLine
+{
+	text-decoration:underline;
+}
 h4
 {
 	font-family: Georgia;

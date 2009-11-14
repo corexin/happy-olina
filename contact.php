@@ -12,7 +12,7 @@
 			</ul>
 		</div>
 		<hr/>
-		<h2 class="paddingLeft200px">Contact us via form</h2>
+		<h2 class="paddingLeft210px">Contact us via form</h2>
 		<p id="sendEmailResult" class='postback'></p>
 
 		<form id="sendEmailForm" method="post" action="sendEmail.php">
