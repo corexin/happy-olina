@@ -1,11 +1,26 @@
 <?php include("header.php"); ?>
 	<div id="mainFrame">
+<<<<<<< .mine
+		<div class="category">
+			<a href="#oneHand"></a>
+		  <div style="font-size: 14px; font-weight: bold; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif"><a href="#oneHand"><span class="small">One Hand</span></a></div>
+			<a href="#oneHand"></a>
+			
+		    <div class="small" style="font-size: 18px"><a href="#twoFoot" style="font-size: 14px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-weight: bold">Two feet</a></div>
+		  <a href="#oneHandOneFoot"></a>
+		  <div style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-weight: bold"><a href="#oneHandOneFoot" style="font-size: 14px"> One Hand One Foot</a></div>
+		  <a href="#oneHandOneFoot"></a>
+			<a href="#twoHandTwoFoot">
+		  <div style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 14px; font-weight: bold">Two Hand Two Feet</div>
+		  </a>	  </div>
+=======
 		<div id="category">
 			<div><a class="small" href="#oneHand">One Hand</a></div>
 			<div><a class="small" href="#twoFoot">Two feet</a></div>
 			<div><a href="#oneHandOneFoot">One Hand One Foot</a></div>
 			<div><a href="#twoHandTwoFoot">Two Hands Two Feet</a></div>
 		</div>
+>>>>>>> .r241
 		
 		<div id="product-list">
 			<div id="twoHandTwoFoot">
