@@ -37,29 +37,14 @@
 	display:table;
 }
 
-#product-list >div>div.extra
-{
-	margin:10px;
-	width:98%;
-	height:auto;
-	font-weight: bold;
-	height:320px;
-}
 
 #product-list >div>div p
 {
 	margin-top:1.2em;
+	margin-left:1.2em;
 	color:#9900ff;
 	display:table-cell;
-	verical-align:middle;
-}
-
-#product-list >div>div p:first-child
-{
-	margin-top:2em;
-	color:red;
-	
-	
+	vertical-align:middle;
 }
 
 #product-list >div>div>a
@@ -86,8 +71,8 @@
 
 #product-list img.long
 {
-	width:250px;
-	height:300px;
+	width:150px;
+	height:200px;
 	margin:10px 0 0 5px;
 }
 
@@ -104,4 +89,5 @@
  {
 	text-align:center;
  }
-  
+ 
+ 
