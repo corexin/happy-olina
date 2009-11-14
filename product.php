@@ -78,7 +78,7 @@
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
-					<a class="popupwindow preview" href="img/product/one hand one foot/4.jpg"><img alt="" src="img/product/one hand one foot/4.jpg" /></a>
+					<a class="popupwindow preview" href="img/product/one hand one foot/4.jpg"><img alt="" class="square" src="img/product/one hand one foot/4.jpg" /></a>
 					<p>Coffee Frame &amp; Chocolate Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
@@ -91,7 +91,7 @@
 				<h4 >(Size: around 45cmx35cm depends on the frame)</h4>
 	
 				<div>
-					<a class="popupwindow preview" href="img/product/two feet/2.jpg"><img alt="" src="img/product/two feet/2.jpg" /></a>
+					<a class="popupwindow preview" href="img/product/two feet/2.jpg"><img alt=""  class="square" src="img/product/two feet/2.jpg" /></a>
 					<p>Grey Frame &amp; Dark Blue Matt</p>
 					<p>Silver Casting &amp; Silver Name Plate</p>
 				</div>
@@ -103,7 +103,7 @@
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
-					<a class="popupwindow preview" href="img/product/two feet/3.jpg"><img alt="" src="img/product/two feet/3.jpg" /></a>
+					<a class="popupwindow preview" href="img/product/two feet/3.jpg"><img alt="" class="square" src="img/product/two feet/3.jpg" /></a>
 					<p>Brown Frame &amp; Dark Red Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
@@ -115,6 +115,7 @@
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
+					<a class="popupwindow preview" href="img/product/two feet/3.jpg"><img alt="" class="long"  src="img/product/1.jpg" /></a>
 				</div>
 			</div>	
    
