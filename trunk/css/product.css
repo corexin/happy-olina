@@ -2,87 +2,104 @@
 {
 	width:98%;
 	padding:10px;
-	height:auto;
 }
 
-div.category
+#category
 {
-	height:60px;
-	width:100%;
-	clear:both;
+	height:40px;
 	margin-top:15px;
+	display:table;
+	text-align:center;
 }
 
-div.category div
+#category >div
 {
 	background:url(../img/icon/foot.jpg) 0 0 no-repeat;
-	height:50px;
-	width:150px;
-	float:left;
+	height:auto;
+	width:auto;
 	padding-left:50px;
-}
- 
-div.category a:hover
-{
-	cursor:hand;
-}
-
-div.category a
-{
+	padding-right:5px;
 	color:#9900ff;
+	display:table-cell;
+	vertical-align:middle;
 }
 
-#product-list >div
-{
-	width:100%;
-	margin:1px;
-	display:block;
-}
+ 
 #product-list >div>div
 {
-	float:left;
 	margin:10px;
 	width:98%;
 	height:auto;
 	font-weight: bold;
+	height:auto;
+	display:table;
+}
+
+#product-list >div>div.extra
+{
+	margin:10px;
+	width:98%;
+	height:auto;
+	font-weight: bold;
+	height:320px;
 }
 
 #product-list >div>div p
 {
 	margin-top:1.2em;
 	color:#9900ff;
+	display:table-cell;
+	verical-align:middle;
 }
 
-#product-list >div>div>a, #product-list >div>div>p
+#product-list >div>div p:first-child
+{
+	margin-top:2em;
+	color:red;
+	
+	
+}
+
+#product-list >div>div>a
+{
+	float:left;
+	width:auto;
+	display:block;
+}
+
+#product-list >div>div>p
 {
 	float:left;
 	width:45%;
+	margin-top:1.5em;
+	line-height:0.2em;
 }
 
-#product-list >div img
+#product-list  img
 {
-	width:300px;
-	height:200px;
-	margin:10px 10px 0 5px;
-	valign:middle;
+	width:230px;
+	height:130px;
+	margin:10px 0 0 5px;
 }
 
-#product-list >div img.long
+#product-list img.long
 {
 	width:250px;
 	height:300px;
-	margin:10px;
+	margin:10px 0 0 5px;
 }
 
 #product-list h2
 {
 	text-align:center;
-	border-top:2px solid red;
 	margin-top:2em;
 	padding-top:1.2em;
+	display:block;
+	height:auto;
 }
 
  #product-list  h4
  {
 	text-align:center;
  }
+  
