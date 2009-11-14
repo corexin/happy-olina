@@ -67,7 +67,7 @@
 				<h4 >(Size: around 45cmx35cm depends on the frame)</h4>
 	
 				<div>
-					<a class="popupwindow preview" href="img/product/one hand one foot/12.jpg"><img class="long" src="img/product/one hand one foot/12.jpg" /></a>
+					<a class="popupwindow preview" href="img/product/one hand one foot/12.jpg"><img alt="" class="long" src="img/product/one hand one foot/12.jpg" /></a>
 					<p>Pearl White Frame &amp; Milky White Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
@@ -115,9 +115,6 @@
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
-					<a class="popupwindow preview" href="img/product/1.jpg"><img class="long" src="img/product/1.jpg" /></a>
-					<p>Reddish Brown  Frame &amp; Green Matt</p>
-					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
 			</div>	
    
