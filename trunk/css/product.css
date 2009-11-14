@@ -76,6 +76,13 @@
 	margin:10px 0 0 5px;
 }
 
+#product-list img.square
+{
+	width:150px;
+	height:150px;
+	margin:10px 0 0 5px;
+}
+
 #product-list h2
 {
 	text-align:center;
