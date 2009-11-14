@@ -2,7 +2,7 @@
 		
 	<div id="mainFrame" class="rightTopFlower">
 		
-		<img class="floatLeft moveDown" src="img/image1-small.jpg" />
+		<img class="floatLeft moveDown" src="img/image1-small.jpg" alt=""/>
 		<div class="textOnRight">
 			<h2 >Welcome to Happy Olina</h2>
 			<p class="ulHeading" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">We specialize in Baby Hand and Feet sculptures.</p>

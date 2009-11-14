@@ -6,5 +6,5 @@
 		<li><a href="faq.php">FAQ</a></li>
 		<li><a href="contact.php">Contact Us</a></li>
 	</ul>
-	<a href="#"><img src="img/roomSample.jpg" /></a>
+	<a href="#"><img alt="" src="img/roomSample.jpg" /></a>
 </div>
