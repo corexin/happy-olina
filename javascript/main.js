@@ -57,22 +57,6 @@ $(document).ready(function() {
 	$("#float-div").css("top",$(window).height()-150 + "px");
 	$("#float-div").show();
 		
-	// setup popup window in product list
-
- var profiles =
-{
-	windowCenter:
-	{
-		height:500,
-		width:600,
-		center:1,
-		resizable:1,
-		scrollbars:1
-	}
-};
-
-$(".popupwindow").popupwindow(profiles);
-
 imagePreview();
 }); 
 
@@ -114,7 +98,10 @@ this.imagePreview = function(){
 		$("#preview")
 			.css("top",(e.pageY - xOffset) + "px")
 			.css("left",(e.pageX + yOffset) + "px");
-	});			
+	});
+	$("a.preview").click(function(){
+		return false;
+	});	
 };
 		
  

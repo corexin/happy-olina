@@ -58,8 +58,8 @@
 {
 	float:left;
 	width:45%;
-	margin-top:1.5em;
-	line-height:0.2em;
+	margin-top:0.1em;
+	line-height:0.1em;
 }
 
 #product-list  img
@@ -85,17 +85,11 @@
 
 #product-list h2
 {
-	text-align:center;
 	margin-top:2em;
 	padding-top:1.2em;
 	display:block;
 	height:auto;
 }
-
- #product-list  h4
- {
-	text-align:center;
- }
  
  #preview
  {
@@ -106,5 +100,9 @@
 	display:none;
 	color:#fff;
 }
-	
+
+#product-list a.preview +p
+{
+	margin-top:50px;
+}
  
