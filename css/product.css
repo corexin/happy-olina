@@ -14,26 +14,24 @@ website: http://www.happyolina.com.au
 
 #category
 {
-	height:40px;
+	height:auto;
 	margin-top:15px;
 	display:table;
-	text-align:center;
+	position:relative;
+	padding:15px;
 }
 
-#category >div
+#category >a
 {
-	background:url(../img/icon/foot.jpg) 0 0 no-repeat;
-	height:auto;
+	background: url(../img/icon/foot.jpg) no-repeat 0 0;
+	height:50px;
 	width:auto;
-	padding-left:50px;
-	padding-right:5px;
+	padding:15px 10px 15px 50px;
+	margin-right:5px;
 	display:table-cell;
 	vertical-align:middle;
 }
-#category >div a
-{
-	color:#9900ff;
-}
+ 
  
 #product-list >div>div
 {
@@ -63,32 +61,11 @@ website: http://www.happyolina.com.au
 	padding:0;
 }
 
-#product-list  img
-{
-	width:230px;
-	height:130px;
-	margin:0;
-}
-#product-list img.long
-{
-	width:150px;
-	height:200px;
-	margin:0;
-}
-
-#product-list img.square
-{
-	width:150px;
-	height:150px;
-	margin:0;
-}
-
 #product-list >div>div>p
 {
 	float:left;
 	width:45%;
 	margin-top:0.1em;
-	line-height:0.1em;
 }
 
 #product-list h2
@@ -111,7 +88,7 @@ website: http://www.happyolina.com.au
 
 #product-list a.preview +p
 {
-	margin-top:50px;
+	margin-top:40px;
 }
 
 #product-list img.size230by130
@@ -149,4 +126,10 @@ height:120px;
 width:120px;
 height:150px;
 }
- 
+
+#product-list .toTop
+{
+	bottom:200px;
+	position:absolute;
+	right:25px;
+}
