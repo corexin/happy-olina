@@ -1,10 +1,10 @@
 <?php include("header.php"); ?>
 	<div id="mainFrame">
 		<div id="category">
-			<div><a class="small" href="#oneHand">One Hand</a></div>
-			<div><a class="small" href="#twoFoot">Two feet</a></div>
-			<div><a href="#oneHandOneFoot">One Hand One Foot</a></div>
-			<div><a href="#twoHandTwoFoot">Two Hands Two Feet</a></div>
+			<a class="small" href="#oneHand">One Hand</a>
+			<a class="small" href="#twoFoot">Two feet</a>
+			<a href="#oneHandOneFoot">One Hand One Foot</a>
+			<a href="#twoHandTwoFoot">Two Hands Two Feet</a>
 		</div>
 
 		
@@ -121,7 +121,7 @@
 				</div>
 			</div>	
    
-  	
+		<div class="toTop"><a href="#container"><img src="../img/icon/toTop.png"/></a></div>
 	</div>
 </div>
 	
