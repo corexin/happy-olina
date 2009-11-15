@@ -115,7 +115,7 @@
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
-					<a class="preview" href="img/product/two feet/3.jpg"><img alt="" class="long"  src="img/product/1.jpg" /></a>
+					<a class="preview" href="img/product/two feet/3.jpg"><img alt="" class="square"  src="img/product/1.jpg" /></a>
 						<p>Reddish Brown Frame & Green Matt</p>
 						<p>Gold Casting & Gold Name Plate </p>
 				</div>

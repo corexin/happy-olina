@@ -52,6 +52,27 @@
 	float:left;
 	width:auto;
 	display:block;
+	padding:0;
+}
+
+#product-list  img
+{
+	width:230px;
+	height:130px;
+	margin:0;
+}
+#product-list img.long
+{
+	width:150px;
+	height:200px;
+	margin:0;
+}
+
+#product-list img.square
+{
+	width:150px;
+	height:150px;
+	margin:0;
 }
 
 #product-list >div>div>p
@@ -60,27 +81,6 @@
 	width:45%;
 	margin-top:0.1em;
 	line-height:0.1em;
-}
-
-#product-list  img
-{
-	width:230px;
-	height:130px;
-	margin:10px 0 0 5px;
-}
-
-#product-list img.long
-{
-	width:150px;
-	height:200px;
-	margin:10px 0 0 5px;
-}
-
-#product-list img.square
-{
-	width:150px;
-	height:150px;
-	margin:10px 0 0 5px;
 }
 
 #product-list h2
