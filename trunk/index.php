@@ -4,8 +4,6 @@
 	<title>Happyolina - Feet and Hand Sculpture Collections</title>
 	<meta name="description" content="Australia Baby hand and feet sculpture collection" /> 
 	<meta name="keywords" content="HappyOlina Australia Brisbane Baby Love Hand Foot Sculpture" />
-
-	<link rel="stylesheet" type="text/css" href="css/main.css" />
 	<link rel="stylesheet" type="text/css" href="css/enter.css" />
 	<link rel="stylesheet" type="text/css" href="css/common.css" />
 </head>
@@ -19,7 +17,7 @@
 	        classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
 	        codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,79,0"
 	        id="Intro"
-	        width="450" height="340"
+	        width="450" height="300"
 			>
 	        <param name="movie" value="flash/Intro.swf">
 	        <param name="bgcolor" value="#FFFFFF">
@@ -29,7 +27,7 @@
 	          type="application/x-shockwave-flash"
 	          pluginspage="http://www.macromedia.com/go/getflashplayer"
 	          name="Intro"
-	           width="450" height="340"
+	           width="450" height="330"
 	          src="flash/Intro.swf"
 	          bgcolor="#FFFFFF"
 	          quality="high"
@@ -43,7 +41,7 @@
 			</object>
 		</div>
 
-		<span id="enter_button"><p style="color:#9966CC;display:block;">Main page coming soon...</p></span>
+		<div id="enter_button"><a href="main.php"><img src="img/enter1.gif" /></a></div>
 
 	</div>
  
