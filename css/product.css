@@ -113,4 +113,40 @@ website: http://www.happyolina.com.au
 {
 	margin-top:50px;
 }
+
+#product-list img.size230by130
+{
+width:230px;
+height:130px;
+}
+#product-list img.size180by130
+{
+width:180px;
+height:130px;
+}
+#product-list img.size140by190
+{
+width:140px;
+height:190px;
+}
+#product-list img.size170by120
+{
+width:170px;
+height:120px;
+}
+#product-list img.size190by140
+{
+width:190px;
+height:140px;
+}
+#product-list img.size170by120
+{
+width:170px;
+height:120px;
+}
+#product-list img.size120by150
+{
+width:120px;
+height:150px;
+}
  
