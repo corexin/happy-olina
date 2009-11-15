@@ -39,20 +39,41 @@ $(document).ready(function() {
 		return true;
 	}
 	
-
 	/** copy from internet */
-	$(window).scroll( function() {
-		var diffY = $(window).scrollTop();//页面现在的位置和滚动条顶端的距离[scrollTop()]
-		var diffH = $(window).height()-150;//设计者期望的浮动栏与浏览器顶端的距离[height()],这里是与浏览器顶端保持1/4个页面的高度,如果diffH的值设置成0,浮动栏就会落在屏幕顶端
-		var percent=diffY+diffH; //percent将被赋值给css中的"top"属性,作为浮动栏的新高度值
-		if(percent<0){      //判断percent的值是否小于0,小于0就凑整,大于0就忽略小数部分
-			percent=Math.ceil(percent);
-		}else{
-			percent=Math.floor(percent); //取整
-			var v = percent+"px"; //css的属性需要一个单位,这里是px
-			$("#float-div").css("top",v);//percent被赋值给top属性,浏览器根据这个值动态的调整浮动栏的高度,如果按照上面给的代码,这个高度将正好让浮动栏一直保持在屏幕中央
+	$(window).scroll(
+		function() {
+			var diffY = $(window).scrollTop();//页面现在的位置和滚动条顶端的距离[scrollTop()]
+			var diffH = $(window).height()-150;//设计者期望的浮动栏与浏览器顶端的距离[height()],这里是与浏览器顶端保持1/4个页面的高度,如果diffH的值设置成0,浮动栏就会落在屏幕顶端
+			var percent=diffY+diffH; //percent将被赋值给css中的"top"属性,作为浮动栏的新高度值
+			if(percent<0){      //判断percent的值是否小于0,小于0就凑整,大于0就忽略小数部分
+				percent=Math.ceil(percent);
+			}else{
+				percent=Math.floor(percent); //取整
+				var contact = percent+"px"; 
+				var toTop = percent+100+"px"; 
+				$("#float-div").css("top",contact);
+				$("#toTop").css("top",toTop);
+			}
 		}
-	});
+	);
+	
+	$(window).bind("resize", 
+		function() {
+			var diffY = $(window).scrollTop();//页面现在的位置和滚动条顶端的距离[scrollTop()]
+			var diffH = $(window).height()-150;//设计者期望的浮动栏与浏览器顶端的距离[height()],这里是与浏览器顶端保持1/4个页面的高度,如果diffH的值设置成0,浮动栏就会落在屏幕顶端
+			var percent=diffY+diffH; //percent将被赋值给css中的"top"属性,作为浮动栏的新高度值
+			if(percent<0){      //判断percent的值是否小于0,小于0就凑整,大于0就忽略小数部分
+				percent=Math.ceil(percent);
+			}else{
+				percent=Math.floor(percent); //取整
+				var contact = percent+"px"; 
+				var toTop = percent+100+"px"; 
+				$("#float-div").css("top",contact);
+				$("#toTop").css("top",toTop);
+			}
+		}
+);
+	
 	// initialize
 	$("#float-div").css("top",$(window).height()-150 + "px");
 	$("#float-div").show();
@@ -60,6 +81,7 @@ $(document).ready(function() {
 	// setup popup window in product list
 	imagePreview();
 }); 
+
 
 /*
  * Image preview script 
