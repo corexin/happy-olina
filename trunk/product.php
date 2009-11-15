@@ -78,7 +78,7 @@
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
-					<a class="preview" href="img/product/one hand one foot/4.jpg"><img alt="" class="size170by120" src="img/product/one hand one foot/4.jpg" /></a>
+					<a class="preview" href="img/product/one hand one foot/4.jpg"><img alt="" class="size140by120" src="img/product/one hand one foot/4.jpg" /></a>
 					<p>Coffee Frame &amp; Chocolate Matt</p>
 					<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
@@ -103,7 +103,7 @@
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
-					<a class="preview" href="img/product/two feet/3.jpg"><img alt="" class="size170by120" src="img/product/two feet/3.jpg" /></a>
+					<a class="preview" href="img/product/two feet/3.jpg"><img alt="" class="size140by120" src="img/product/two feet/3.jpg" /></a>
 						<p>Brown Frame &amp; Dark Red Matt</p>
 						<p>Gold Casting &amp; Gold Name Plate</p>
 				</div>
@@ -121,7 +121,7 @@
 				</div>
 			</div>	
    
-		<div class="toTop"><a href="#container"><img src="../img/icon/toTop.png"/></a></div>
+		<div id="toTop"><a href="#container"><img src="../img/icon/toTop.png" /></a></div>
 	</div>
 </div>
 	
