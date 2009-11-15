@@ -37,15 +37,21 @@ website: http://www.happyolina.com.au
 	margin-left:200px;
 }
 
-#enter_content span
+#enter_content #enter_button
 {
 	position:absolute;
 	margin-bottom:0px;
-	top:540px;
-	right:15px;
+	top:550px;
+	right:80px;
+	font-size:1.5em;
+}
+ 
+#enter_content a
+{
+	height:100px;
 }
 
-#enter_content #enter_button a:hover
+#enter_content a:hover img
 {
-	border-bottom: 2px solid #9966CC;
+	border-bottom:4px solid red;
 }

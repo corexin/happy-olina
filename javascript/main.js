@@ -77,6 +77,7 @@ $(document).ready(function() {
 	// initialize
 	$("#float-div").css("top",$(window).height()-150 + "px");
 	$("#float-div").show();
+	$("#toTop").css("top",$(window).height() -50 + "px");
 		
 	// setup popup window in product list
 	imagePreview();
