@@ -7,7 +7,7 @@
 			<h2 >Welcome to Happy Olina</h2>
 			<p class="ulHeading" style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">We specialize in Baby Hand and Feet sculptures.</p>
 			<ul style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">
-				<li>To create a ideal memory for your cute babies.</li>
+				<li>To create an ideal memory for your cute babies.</li>
 				<li>To have a special and amazing gift for your friends.</li>
 			</ul>
 			<p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px" >Precious little hands and feet mounted by high quality frame will keep your love forever.</p>
