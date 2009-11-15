@@ -27,10 +27,11 @@ body
 	margin-left: auto ;
 	margin-right: auto ;
 	margin-top: 2px;
+	margin:2px
 	padding:5px;
 	background-color:white;
-	position:relative;
 	color:#9966CC;
+	position:relative;
 }
 
 #header
@@ -64,7 +65,6 @@ body
 	border-left:4px solid #BA83CA;
 	height:auto;
 }
-
 
 #mainFrame p
 {
@@ -177,7 +177,7 @@ h4
 
 /** footer **/
 
-#footer 
+#footer
 {
 	display:block;
 	width:1000px;
@@ -185,5 +185,8 @@ h4
 	clear:both;
 	background:url('../img/footer.jpg') 0 0 no-repeat;
 	margin-top:2em;
+	display:fixed;
+	left:110px;
+	bottom:10px;
 }
 
