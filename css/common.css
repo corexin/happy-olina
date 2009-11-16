@@ -190,3 +190,8 @@ h4
 	bottom:10px;
 }
 
+ol li, ol ul li
+{
+	text-family:Georgia,"Times New Roman",Times,serif;
+	word-spacing:2px;
+}
