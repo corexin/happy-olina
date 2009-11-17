@@ -21,11 +21,16 @@ website: http://www.happyolina.com.au
 	list-style-type:none; 
 	background:#EAEAEA url('../img/snow.gif') center left no-repeat;
 }
-#content  #nav ul li a
+#content  #nav a
 {
 	text-decoration:none;
 	color:#9966CC;
 }
+#content #nav a:hover
+{
+	text-decoration:underline;
+}
+
 
 #content #nav img
 {
@@ -38,10 +43,6 @@ website: http://www.happyolina.com.au
 	text-align:center;
 }
 
-#content #nav a:hover
-{
-	text-decoration:underline;
-}
 
 
 .rightTopFlower

@@ -18,16 +18,15 @@ website: http://www.happyolina.com.au
 	margin-top:15px;
 	display:table;
 	position:relative;
-	padding:15px;
+	padding:5px;
 }
 
 #category >a
 {
-	background: url(../img/icon/foot.jpg) no-repeat 0 0;
-	height:50px;
+	background: url(../img/icon/down.png) no-repeat 0 0;
+	height:20px;
 	width:auto;
-	padding:15px 10px 15px 50px;
-	margin-right:5px;
+	padding:5px 20px 5px 30px;
 	display:table-cell;
 	vertical-align:middle;
 	color:#9900ff;
@@ -50,8 +49,6 @@ website: http://www.happyolina.com.au
 	margin-top:1.2em;
 	margin-left:1.2em;
 	color:#9900ff;
-	display:table-cell;
-	vertical-align:middle;
 }
 
 #product-list >div>div>a
@@ -62,12 +59,20 @@ website: http://www.happyolina.com.au
 	padding:0;
 }
 
-#product-list >div>div>p
+#product-list >div>div p
 {
+	width:300px;
 	float:left;
-	width:45%;
-	margin-top:0.1em;
+	height:1em;
+	line-height:0.1em;
+	margin-top:0;
 }
+
+#product-list a.preview +p
+{
+	margin-top:40px;
+}
+
 
 #product-list h2
 {
@@ -87,10 +92,6 @@ website: http://www.happyolina.com.au
 	color:#fff;
 }
 
-#product-list a.preview +p
-{
-	margin-top:40px;
-}
 
 #product-list img.size230by130
 {
@@ -136,5 +137,8 @@ height:150px;
 	right:25px;
 }
 
-	
+.price
+{
+
+}	
 	

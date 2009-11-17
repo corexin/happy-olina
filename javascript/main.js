@@ -51,8 +51,9 @@ $(document).ready(function() {
 				percent=Math.floor(percent); //取整
 				var contact = percent+"px"; 
 				var toTop = percent+100+"px"; 
-				$("#float-div").css("top",contact);
-				$("#toTop").css("top",toTop);
+				$("#float-div").animate({ top: contact},20 );
+				$("#toTop").animate({top: toTop},20 );
+
 			}
 		}
 	);
@@ -68,8 +69,8 @@ $(document).ready(function() {
 				percent=Math.floor(percent); //取整
 				var contact = percent+"px"; 
 				var toTop = percent+100+"px"; 
-				$("#float-div").css("top",contact);
-				$("#toTop").css("top",toTop);
+					$("#float-div").animate({ top: contact},20 );
+				$("#toTop").animate({top: toTop},20 );
 			}
 		}
 );
