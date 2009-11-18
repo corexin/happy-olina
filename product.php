@@ -10,114 +10,141 @@
 		
 		<div id="product-list">
 			<div id="twoHandTwoFoot">
-				<h2 class="underLine">Two Hands And Two Feet With Photo: $180</h2>
+				<h2 class="underLine">Two Hands And Two Feet With Photo: <span class="price">$180</span></h2>
 				<h4 >(Size: around 60cm x35cm depends on the frame) </h4>
 
 				<div>
 					<a class="preview" title="Two hands and two feet" href="img/product/two hands and two feet/8.jpg"><img alt="" class="size230by130" src="img/product/two hands and two feet/8.jpg" /></a>
-					<p>Brown Frame &amp; Milky White Matt</p>
-					<p>Gold Casting &amp; Gold Name Plate </p>
+					<div>
+						<p>Brown Frame &amp; Milky White Matt</p>
+						<p>Gold Casting &amp; Gold Name Plate </p>
+					</div>
 				</div>
 				<div>
 					<a class="preview"  title="Two hands and two feet" href="img/product/two hands and two feet/10.jpg "><img alt="" class="size230by130" src="img/product/two hands and two feet/10.jpg" /></a>
-					<p>Coffee Frame &amp; Green Matt</p>
-					<p>Gold Casting &amp; Gold Name Plate </p>
+					<div>
+						<p>Coffee Frame &amp; Green Matt</p>
+						<p>Gold Casting &amp; Gold Name Plate </p>
+					</div>
 				</div>
 				<div>
 					<a class="preview" title="Two hands and two feet" href="img/product/two hands and two feet/13.jpg "><img alt="" class="size230by130" src="img/product/two hands and two feet/13.jpg" /></a>
-					<p>Pearl White Frame &amp; Pink Matt</p>
-					<p>Gold Casting &amp; Gold Name Plate </p>
+					<div>
+						<p>Pearl White Frame &amp; Pink Matt</p>
+						<p>Gold Casting &amp; Gold Name Plate </p>
+					</div>
 				</div>
 				<div>
 					<a class="preview" title="Two hands and two feet" href="img/product/two hands and two feet/5.jpg "><img alt="" class="size230by130" src="img/product/two hands and two feet/5.jpg" /></a>
-					<p>Silver Green  Frame &amp; Green Matt</p>
-					<p>Gold Casting &amp; Gold Name Plate </p>
+					<div>
+						<p>Silver Green  Frame &amp; Green Matt</p>
+						<p>Gold Casting &amp; Gold Name Plate </p>
+					</div>
 				</div>
 				<div>
 					<a class="preview" title="Two hands and two feet" href="img/product/two hands and two feet/7.jpg "><img alt="" class="size230by130" src="img/product/two hands and two feet/7.jpg" /></a>
-					<p>Magenta Frame &amp; Pink Matt</p>
-					<p>Gold Casting &amp; Gold Name Plate </p>
+					<div>
+						<p>Magenta Frame &amp; Pink Matt</p>
+						<p>Gold Casting &amp; Gold Name Plate </p>
+					</div>
 				</div>
 				<div>
 					<a class="preview" title="Two hands and two feet" href="img/product/two hands and two feet/11.jpg"><img alt="" class="size230by130" src="img/product/two hands and two feet/11.jpg" /></a>
-					<p>Field Green Frame &amp; Green Matt</p>
-					<p>Silver Casting &amp; Silver Name Plate</p>
+					<div>
+						<p>Field Green Frame &amp; Green Matt</p>
+						<p>Silver Casting &amp; Silver Name Plate</p>
+					</div>
 				</div>
 			</div>
 			
 			<div>			
-				<h2 class="underLine" >Two Hands And Two Feet Without Photo: $150</h2>
+				<h2 class="underLine" >Two Hands And Two Feet Without Photo: <span class="price">$150</span></h2>
 				<h4 >( Size: around 45cm x35cm depends on the frame)</h4>
 	
 				<div>
 					<a class="preview" title="Two hands and two feet" href="img/product/two hands and two feet/6.jpg"><img alt="" class="size180by130" src="img/product/two hands and two feet/6.jpg" /></a>
-					<p>Magenta Frame &amp; Pink Matt</p>
-					<p>Gold Casting &amp; Gold Name Plate</p>
+					<div>
+						<p>Magenta Frame &amp; Pink Matt</p>
+						<p>Gold Casting &amp; Gold Name Plate</p>
+					</div>
 				</div>
+				
 				<div>
 					<a class="preview" title="Two hands and two feet" href="img/product/two hands and two feet/9.jpg"><img alt="" class="size180by130" src="img/product/two hands and two feet/9.jpg" /></a>
-					<p>Dark Green Frame &amp; Green Matt</p>
-					<p>Gold Casting &amp; Gold Name Plate</p>
+					<div>
+						<p>Dark Green Frame &amp; Green Matt</p>
+						<p>Gold Casting &amp; Gold Name Plate</p>
+					</div>
 				</div>
 			</div>
 			
 			
  			<div id="oneHandOneFoot">			
-				<h2 class="underLine" >One Hand And One Foot With Photo: $150</h2>
+				<h2 class="underLine" >One Hand And One Foot With Photo: <span class="price">$150</span></h2>
 				<h4 >(Size: around 45cmx35cm depends on the frame)</h4>
 	
 				<div>
 					<a class="preview" title="One hand and one foot" href="img/product/one hand one foot/12.jpg"><img alt="" class="size140by190" src="img/product/one hand one foot/12.jpg" /></a>
-					<p>Pearl White Frame &amp; Milky White Matt</p>
-					<p>Gold Casting &amp; Gold Name Plate</p>
+					<div>
+						<p>Pearl White Frame &amp; Milky White Matt</p>
+						<p>Gold Casting &amp; Gold Name Plate</p>
+					</div>
 				</div>
 			</div>
 			
    			<div>			
-				<h2 class="underLine" >One Hand And One Foot Without Photo: $120</h2>
+				<h2 class="underLine" >One Hand And One Foot Without Photo: <span class="price">$120</span></h2>
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
 					<a class="preview" title="One hand and one foot" href="img/product/one hand one foot/4.jpg"><img alt="" class="size140by120" src="img/product/one hand one foot/4.jpg" /></a>
-					<p>Coffee Frame &amp; Chocolate Matt</p>
-					<p>Gold Casting &amp; Gold Name Plate</p>
+					<div>
+						<p>Coffee Frame &amp; Chocolate Matt</p>
+						<p>Gold Casting &amp; Gold Name Plate</p>
+					</div>
 				</div>
 			</div>
  
  
  
  	   		<div id="twoFoot">			
-				<h2 class="underLine" >Two Feet With Photo: $150</h2>
+				<h2 class="underLine" >Two Feet With Photo: <span class="price">$150</span></h2>
 				<h4 >(Size: around 45cmx35cm depends on the frame)</h4>
 	
 				<div>
 					<a class="preview" title="Two feet" href="img/product/two feet/2.jpg"><img alt=""  class="size190by140" src="img/product/two feet/2.jpg" /></a>
-					<p>Grey Frame &amp; Dark Blue Matt</p>
-					<p>Silver Casting &amp; Silver Name Plate</p>
+					<div>
+						<p>Grey Frame &amp; Dark Blue Matt</p>
+						<p>Silver Casting &amp; Silver Name Plate</p>
+					</div>
 				</div>
 			</div>	
 	
  
   	  	   	<div>			
-				<h2 class="underLine" >Two Feet Without Photo: $120</h2>
+				<h2 class="underLine" >Two Feet Without Photo: <span class="price">$120</span></h2>
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
 					<a class="preview" title="Two feet" href="img/product/two feet/3.jpg"><img alt="" class="size140by120" src="img/product/two feet/3.jpg" /></a>
+					<div>
 						<p>Brown Frame &amp; Dark Red Matt</p>
 						<p>Gold Casting &amp; Gold Name Plate</p>
+					</div>
 				</div>
  
 			</div>		
  
   	   		<div id="oneHand">			
-				<h2 class="underLine" >One Hand  Without Photo: $80</h2>
+				<h2 class="underLine" >One Hand  Without Photo:<span class="price">$80</span></span></h2>
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
 					<a class="preview" title="One hand" href="img/product/1.jpg"><img alt="" class="size120by150"  src="img/product/1.jpg" /></a>
+					<div>
 						<p>Reddish Brown Frame & Green Matt</p>
 						<p>Gold Casting & Gold Name Plate </p>
+					</div>
 				</div>
 			</div>	
    
