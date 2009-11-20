@@ -99,7 +99,7 @@
 				<h4 >( Size: around 45cm x35cm depends on the frame)</h4>
 	
 				<div>
-					<a class="preview" title=" Four hands for two children" href="img/product/two children/4 hands.jpg"><img alt="" class="size180by130" src="img/product/two children/4 hands.jpg" /></a>
+					<a class="preview" title=" Four hands for two children" href="img/product/two children/4 hands.jpg"><img alt="" class="size140by190" src="img/product/two children/4 hands.jpg" /></a>
 					<div>
 						<p>Silver Green Frame &amp; Green Matt</p>
 						<p>Gold Casting &amp; Gold Name Plate</p>
