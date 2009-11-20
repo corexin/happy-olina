@@ -33,7 +33,6 @@ website: http://www.happyolina.com.au
 	color:#9900ff;
 }
  
- 
 #product-list >div>div
 {
 	margin:1em;
@@ -74,7 +73,7 @@ website: http://www.happyolina.com.au
 
 #product-list h2
 {
-	margin:3em 0 0 0;
+	margin:1.5em 0 0 0;
 	display:block;
 	height:auto;
 	width:100%;
@@ -155,14 +154,13 @@ height:150px;
 	background-color:pink;
 	width:800px;
 	text-align:center;
-	padding:5px 0 1px 0;
+	padding:5px 0 5px 0;
 	border:1px solid red;
 	
 }
 #hotDeal a
 {
 	margin:10px;
-	padding:0px;
 	color:red;
 	font-size:2em;
 }
