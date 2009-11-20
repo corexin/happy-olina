@@ -147,4 +147,53 @@ height:150px;
 {
 	color:#FF6600;
 }	
+
+#hotDeal
+{
+	display:block;
+	height:40px;
+	background-color:pink;
+	width:800px;
+	text-align:center;
+	padding:5px 0 1px 0;
+	border:1px solid red;
 	
+}
+#hotDeal a
+{
+	margin:10px;
+	padding:0px;
+	color:red;
+	font-size:2em;
+}
+ 
+#hotDealContent
+{
+	width:800px;
+	border-left:1px solid red;
+	border-right:1px solid red;
+	border-bottom:1px solid red;
+	padding:0;
+	color:red;
+	
+}
+#hotDealContent>p
+{
+font-size:1.5em;
+	margin:0;
+	padding:0;
+	margin-left:1em;
+}
+
+#hotDealContent ul
+{
+	margin:0;
+	padding:0;
+	list-style:circle inside url(../img/icon/target.png);
+}
+
+#hotDealContent ul li
+{
+	padding:0 0 0 2em;
+	text-indent:15px;
+}
