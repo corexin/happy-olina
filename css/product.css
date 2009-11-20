@@ -155,9 +155,11 @@ height:150px;
 	width:800px;
 	text-align:center;
 	padding:5px 0 5px 0;
+	margin-top:1em;
 	border:1px solid red;
 	
 }
+
 #hotDeal a
 {
 	margin:10px;
