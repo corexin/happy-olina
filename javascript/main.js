@@ -84,7 +84,7 @@ $(document).ready(function() {
 	imagePreview();
 	
 	//hot deal code
-	$("#hotDeal").hover(function(){
+	$("#hotDeal a").hover(function(){
 		$("#hotDealContent").slideDown("slow").css({'display':'block'});
     },
 	function(){
