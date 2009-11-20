@@ -10,7 +10,7 @@
 		
 		<div id="product-list">
 			<div id="twoHandTwoFoot">
-				<h2 class="underLine">Two Hands And Two Feet With Photo: <span class="price">$180</span></h2>
+				<h2 class="underLine">Two Hands and Two Feet with Photo: <span class="price">$180</span></h2>
 				<h4 >(Size: around 60cm x35cm depends on the frame) </h4>
 
 				<div>
@@ -58,7 +58,7 @@
 			</div>
 			
 			<div>			
-				<h2 class="underLine" >Two Hands And Two Feet Without Photo: <span class="price">$150</span></h2>
+				<h2 class="underLine" >Two Hands and Two Feet without Photo: <span class="price">$150</span></h2>
 				<h4 >( Size: around 45cm x35cm depends on the frame)</h4>
 	
 				<div>
@@ -105,7 +105,7 @@
 			</div>	
 
  			<div id="oneHandOneFoot">			
-				<h2 class="underLine" >One Hand And One Foot With Photo: <span class="price">$150</span></h2>
+				<h2 class="underLine" >One Hand and One Foot with Photo: <span class="price">$150</span></h2>
 				<h4 >(Size: around 45cmx35cm depends on the frame)</h4>
 	
 				<div>
@@ -118,7 +118,7 @@
 			</div>
 			
    			<div>			
-				<h2 class="underLine" >One Hand And One Foot Without Photo: <span class="price">$120</span></h2>
+				<h2 class="underLine" >One Hand and One Foot without Photo: <span class="price">$120</span></h2>
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
@@ -133,7 +133,7 @@
  
  
  	   		<div id="twoFoot">			
-				<h2 class="underLine" >Two Feet With Photo: <span class="price">$150</span></h2>
+				<h2 class="underLine" >Two Feet with Photo: <span class="price">$150</span></h2>
 				<h4 >(Size: around 45cmx35cm depends on the frame)</h4>
 	
 				<div>
@@ -147,7 +147,7 @@
 	
  
   	  	   	<div>			
-				<h2 class="underLine" >Two Feet Without Photo: <span class="price">$120</span></h2>
+				<h2 class="underLine" >Two Feet without Photo: <span class="price">$120</span></h2>
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
@@ -161,7 +161,7 @@
 			</div>		
  
   	   		<div id="oneHand">			
-				<h2 class="underLine" >One Hand  Without Photo:<span class="price">$80</span></span></h2>
+				<h2 class="underLine" >One Hand without Photo:<span class="price">$80</span></span></h2>
 				<h4 >(Size: around 30cmx26cm depends on the frame)</h4>
 	
 				<div>
