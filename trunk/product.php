@@ -62,7 +62,7 @@
 				<h4 >( Size: around 45cm x35cm depends on the frame)</h4>
 	
 				<div>
-					<a class="preview" title="Two hands and two feet" href="img/product/two hands and two feet/6.jpg"><img alt="" class="size230by130" src="img/product/two hands and two feet/6.jpg" /></a>
+					<a class="preview" title="Two hands and two feet" href="img/product/two hands and two feet/6.jpg"><img alt="" class="size180by130" src="img/product/two hands and two feet/6.jpg" /></a>
 					<div>
 						<p>Magenta Frame &amp; Pink Matt</p>
 						<p>Gold Casting &amp; Gold Name Plate</p>
@@ -77,23 +77,20 @@
 					</div>
 				</div>
 			</div>
-			
-
-
-
-
+	
 			<div>			
 				<h2 class="underLine" >Two Hands and Two Children with Photo: <span class="price">$160</span></h2>
 				<h4 >( Size: around 60cm x35cm depends on the frame)</h4>
 	
 				<div>
-					<a class="preview" title="Two hands for two children" href="img/product/two children/2 hands.jpg"><img alt="" class="size180by130" src="img/product/two children/2 hands.jpg" /></a>
+					<a class="preview" title="Two hands for two children" href="img/product/two children/2 hands.jpg"><img alt="" class="size230by130" src="img/product/two children/2 hands.jpg" /></a>
 					<div>
 						<p>Brown Frame &amp; Chocolate Matt</p>
 						<p>Gold Casting &amp; Gold Name Plate</p>
 					</div>
 				</div>
 			</div>		
+			
 			<div>			
 				<h2 class="underLine" >Four Hands for Two Children without Photo: <span class="price">$160</span></h2>
 				<h4 >( Size: around 45cm x35cm depends on the frame)</h4>
@@ -106,12 +103,6 @@
 					</div>
 				</div>
 			</div>	
-
-
-
-
-
-
 
  			<div id="oneHandOneFoot">			
 				<h2 class="underLine" >One Hand And One Foot With Photo: <span class="price">$150</span></h2>
