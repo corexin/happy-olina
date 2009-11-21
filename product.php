@@ -6,7 +6,7 @@
 			<a href="#oneHandOneFoot">One Hand One Foot</a>
 			<a href="#twoHandTwoFoot">Two Hands Two Feet</a>
 		</div>
-		<div id="hotDeal"><img src="img/icon/hot.png"/><a href="#">Special Deal click here</a><img src="img/icon/hot.png"/></div>
+		<div id="hotDeal"><img src="img/icon/hot.png"/><a href="#">Special Deal Click Here</a><img src="img/icon/hot.png"/></div>
 		<div id="hotDealContent" class="hide">
 			<p>For the two hands and two feet set only.</p>
 			<ul>
