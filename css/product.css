@@ -147,40 +147,45 @@ height:150px;
 	color:#FF6600;
 }	
 
-#hotDeal
+#hotDeal,#hotDealContent
 {
 	display:block;
-	height:40px;
-	background-color:pink;
+	background-color:#FFE2F2;	
 	width:800px;
+	color:red;
+}
+
+#hotDeal
+{
+	height:40px;
 	text-align:center;
-	padding:5px 0 5px 0;
+	padding:5px 0 0 0;
 	margin-top:1em;
-	border:1px solid red;
-	
+	border-bottom:1px solid #5926FF;
+}
+
+#hotDealContent
+{
+	font-family:gorgia;
+	padding:0;
 }
 
 #hotDeal a
 {
 	margin:10px;
 	color:red;
-	font-size:2em;
+	font-size:1.2em;
+	text-decoration:none;
 }
  
-#hotDealContent
+#hotDealContent .note
 {
-	font-family:gorgia;
-	width:800px;
-	border-left:1px solid red;
-	border-right:1px solid red;
-	border-bottom:1px solid red;
-	padding:0;
-	color:red;
-	
+	font-size:0.8em;
 }
+
 #hotDealContent>p
 {
-font-size:1.5em;
+	font-size:1.1em;
 	margin:0;
 	padding:0;
 	margin-left:1em;

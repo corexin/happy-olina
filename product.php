@@ -6,15 +6,16 @@
 			<a href="#oneHandOneFoot">One Hand One Foot</a>
 			<a href="#twoHandTwoFoot">Two Hands Two Feet</a>
 		</div>
-		<div id="hotDeal"><img src="img/icon/hot.png"/><a href="#">Special Deal Click Here</a><img src="img/icon/hot.png"/></div>
-		<div id="hotDealContent" class="hide">
-			<p>For the two hands and two feet set only.</p>
+		<div id="hotDeal"><img src="img/icon/hot.png"/><a href="#">Special Deal</a><img src="img/icon/hot.png"/></div>
+		<div id="hotDealContent">
+			
+			<p>Get $20 discount when bringing the voucher from newspaper, OR</p>
 			<ul>
 				<li>If you take 2 sets, you will have $10 discount each set.</li>
 				<li>If you take 3 sets, you will have $20 discount each set.</li>
 				<li>If you take more than 4 sets, you will have $30 discount each set.</li>
 			</ul>
-			<p>Or get $20 discount when bringing the voucher from newspaper.</p>
+			<p class="note">(Please note: special deal is only for the two hands and two feet set.)</p>
 		</div>
 		
 		<div id="product-list">
