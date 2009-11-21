@@ -82,14 +82,6 @@ $(document).ready(function() {
 		
 	// setup popup window in product list
 	imagePreview();
-	
-	//hot deal code
-	$("#hotDeal a").hover(function(){
-		$("#hotDealContent").slideDown("slow").css({'display':'block'});
-    },
-	function(){
-		$("#hotDealContent").slideUp("fast");
-    });
 }); 
 
 
