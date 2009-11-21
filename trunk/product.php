@@ -10,9 +10,9 @@
 		<div id="hotDealContent" class="hide">
 			<p>For the two hands and two feet set only.</p>
 			<ul>
-				<li>If you take 2 sets, you will have $10 discount.</li>
-				<li>If you take 3 sets, you will have $20 discount.</li>
-				<li>If you take more than 4 sets, you will have $30 discount.</li>
+				<li>If you take 2 sets, you will have $10 discount each set.</li>
+				<li>If you take 3 sets, you will have $20 discount each set.</li>
+				<li>If you take more than 4 sets, you will have $30 discount each set.</li>
 			</ul>
 			<p>Or get $20 discount when bringing the voucher from newspaper.</p>
 		</div>
