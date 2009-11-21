@@ -5,6 +5,8 @@
 	<meta name="description" content="Australia Baby hand and feet sculpture collection" /> 
 	<meta name="keywords" content="HappyOlina Australia Brisbane Baby Love Hand Foot Sculpture" />
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE" />
+	<META HTTP-EQUIV="EXPIRES" CONTENT="-1" />
 	<script type="text/javascript" src="javascript/jquery-1.3.2.min.js"></script>
 	<script type="text/javascript" src="javascript/jquery.form.js"></script>
 	<script type="text/javascript" src="javascript/main.js"></script>
