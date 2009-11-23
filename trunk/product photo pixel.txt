@@ -1,0 +1,7 @@
+two hands two feet with photo        	230x130
+two hands two feet without photo     	180x130
+One hand and one foot with photo     	140x190
+One hand and one foot without Photo  	170x120
+Two feet with photo		   	190x140
+Two feet without photo			170x120
+One hand without Photo			120x150
