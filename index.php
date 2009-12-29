@@ -40,7 +40,12 @@
 	        </embed>
 			</object>
 		</div>
+
+		<div id="enter_button"><a href="main.php"><img src="img/enter1.gif" /></a></div>
+
+	</div>
  
+</div>
 <br>
 <a href='http://www.mozilla.com/en-US/?from=sfx&amp;uid=0&amp;t=444'><img src='http://sfx-images.mozilla.org/affiliates/Buttons/Firefox3.5/200x32_all_purp.png' alt='Spread Firefox Affiliate Button' border='0' /></a>
 </body>
