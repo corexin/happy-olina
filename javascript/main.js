@@ -104,29 +104,46 @@ this.imagePreview = function(){
 		// you might want to adjust to get the right result
 		
 	/* END CONFIG */
-	$("a.preview").hover(function(e){
+	$("a.preview").mouseover(function(e){
+		
+		bigX = getX(e.currentTarget.firstChild) + e.currentTarget.firstChild.width;
+		bigY = getY(e.currentTarget.firstChild) - 15;
+		 
 		this.t = this.title;
-		this.title = "";	
+		this.title = "";
 		var c = (this.t != "") ? "<br/>" + this.t : "";
 		$("body").append("<p id='preview'><img src='"+ this.href +"' alt='Image preview' />"+ c +"</p>");								 
 		$("#preview")
-			.css("top",(e.pageY - xOffset) + "px")
-			.css("left",(e.pageX + yOffset) + "px")
-			.fadeIn("fast");						
-    },
-	function(){
+			.css("top",bigY+ "px")
+			.css("left",bigX + "px")
+			.fadeIn("slow");						
+    });
+
+	$("a.preview").mouseout(function(e){
 		this.title = this.t;	
 		$("#preview").remove();
-    });
-	
-	$("a.preview").mousemove(function(e){
-		$("#preview")
-			.css("top",(e.pageY - xOffset) + "px")
-			.css("left",(e.pageX + yOffset) + "px");
 	});
-	$("a.preview").click(function(){
-		return false;
-	});	
+	 
+	function getY( oElement )
+	{
+		var iReturnValue = 0;
+		while( oElement != null ) {
+			iReturnValue += oElement.offsetTop;
+			oElement = oElement.offsetParent;
+		}
+		return iReturnValue;
+	}
+		
+		
+	function getX( oElement )
+	{
+		var iReturnValue = 0;
+		while( oElement != null ) {
+			iReturnValue += oElement.offsetLeft;
+			oElement = oElement.offsetParent;
+		}
+		return iReturnValue;
+	}
 };
 		
  
