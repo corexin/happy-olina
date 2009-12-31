@@ -140,8 +140,7 @@
 				</div>
 			</div>
  
- 
- 
+  
  	   		<div id="twoFoot">			
 				<h2 class="underLine" >Two Feet with Photo: <span class="price">$150</span></h2>
 				<h4 >(Size: around 45cmx35cm depends on the frame)</h4>
@@ -183,8 +182,8 @@
 				</div>
 			</div>	
    
-		<div id="toTop"><a href="#container"><img src="../img/icon/toTop.png" /></a></div>
-	</div>
+			<div id="toTop"><a href="#container"><img src="../img/icon/toTop.png" /></a></div>
+		</div>
 </div>
 	
   <?php include("footer.php"); ?>
