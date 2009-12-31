@@ -6,12 +6,7 @@ website: http://www.happyolina.com.au
 ---------------------------------------------------------------------------------------------*/
 
 /** for production list page */
-#product-list
-{
-	width:98%;
-	padding:10px;
-	color:#9900ff;
-}
+
 
 #category
 {
@@ -22,7 +17,7 @@ website: http://www.happyolina.com.au
 	padding:5px;
 }
 
-#category >a
+#category a
 {
 	background: url(../img/icon/down.png) no-repeat 0 0;
 	height:20px;
@@ -33,17 +28,21 @@ website: http://www.happyolina.com.au
 	color:#9900ff;
 }
  
-#product-list >div>div
+ #product-list
 {
-	margin:1em;
-	font-weight: bold;
-	padding:1em	;
-	vertical-align:middle;
-	overflow: auto;
-	width: 90%
+	padding:10px;
+	color:#9900ff;
 }
 
-#product-list >div>div>a
+#product-list div div
+{
+	margin:1em;
+	padding:1em;
+	overflow: auto;
+	height:auto;
+}
+
+#product-list div div a
 {
 	display:inline;
 	float:left;
@@ -51,40 +50,38 @@ website: http://www.happyolina.com.au
 }
 
 
-#product-list >div>div>div
+#product-list div div div
 {
 	display:inline;
-	margin-left:1.2em;
-	margin-top:0;
 	padding:2em 0 0 0;
 	line-height:0.5em;
 	vertical-align:top;
 	float:left;
-	zoom:1;
-}
+	width:400px;
+ }
+ 
 
-#product-list >div>div>div p
+
+#product-list div>div>div p
 {
-	line-height:0.5em;
 	padding:0;
-	margin:10px;
+	margin:0;
 }
 
+ 
 
 #product-list h2
 {
 	margin:1.5em 0 0 0;
 	display:block;
-	height:auto;
-	width:100%;
+	clear:both;
 }
 
 #product-list h4
 {
 	margin:0.5em 0 2em 0;
 	display:block;
-	height:auto;
-	width:100%;
+	clear:both;
 }
 
  #preview
@@ -100,38 +97,38 @@ website: http://www.happyolina.com.au
 
 #product-list img.size230by130
 {
-width:230px;
-height:130px;
+	width:230px;
+	height:130px;
 }
 #product-list img.size180by130
 {
-width:180px;
-height:130px;
+	width:180px;
+	height:130px;
 }
 #product-list img.size140by190
 {
-width:140px;
-height:190px;
+	width:140px;
+	height:190px;
 }
 #product-list img.size170by120
 {
-width:170px;
-height:120px;
+	width:170px;
+	height:120px;
 }
 #product-list img.size190by140
 {
-width:190px;
-height:140px;
+	width:190px;
+	height:140px;
 }
 #product-list img.size140by120
 {
-width:170px;
-height:120px;
+	width:170px;
+	height:120px;
 }
 #product-list img.size120by150
 {
-width:120px;
-height:150px;
+	width:120px;
+	height:150px;
 }
 
 #toTop
