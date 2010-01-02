@@ -123,7 +123,11 @@ this.imagePreview = function(){
 		this.title = this.t;	
 		$("#preview").remove();
 	});
-	 
+
+	$("a.preview").click(function(e){
+		return false;
+	});
+	
 	function getY( oElement )
 	{
 		var iReturnValue = 0;
