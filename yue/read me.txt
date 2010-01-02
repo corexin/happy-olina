@@ -1,5 +1,0 @@
-Home 背景颜色：EAEAEA
-Contact 右边长条 ：up: B57DC6
-		 Down: BA83CA
-
-Contact 右边背景上 : EAEAEA
