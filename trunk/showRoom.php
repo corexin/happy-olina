@@ -12,6 +12,7 @@
 	
 	<p><img src="img/showRoom/sample7.jpg" width="650" height="300" /></p>
 	
+	<div id="toTop"><a href="#container"><img src="../img/icon/toTop.png" /></a></div>
 </div>
 	
   <?php include("footer.php"); ?>
