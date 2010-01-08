@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
 <div id="mainFrame">
-	<h2 >Samples Showroom</h2>
+	<h2 >Sample Showroom</h2>
 	<p><img src="img/showRoom/sample2.jpg" width="650" height="300" /></p>
 	
 	<p><img src="img/showRoom/sample3.jpg" width="650" height="300" /></p>
