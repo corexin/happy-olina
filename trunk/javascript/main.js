@@ -26,11 +26,16 @@ $(document).ready(function() {
 			fieldNames +="[Name]";
 		}
 		
-		if(!form.phone.value && !form.email.value)
+		if(!form.phone.value )
 		{
-			fieldNames +=" [Phone or Email]";
+			fieldNames +=" [Phone]";
 		}
 
+		if(!form.email.value)
+		{
+			fieldNames +=" [Email]";
+		}
+		
 		if(fieldNames != "")
 		{
 			alert(fieldNames + " can not be empty!");
