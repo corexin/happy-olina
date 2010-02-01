@@ -24,9 +24,9 @@
 					<option name="miss">Miss</option>
 				</select>
 			</p>
-			<p class="item"><span class="label">Full Name:</span><input name="name" type="text"></input></p>
-			<p class="item"><span class="label">Phone:</span><input name="phone" type="text"></input></p>
-			<p class="item"><span class="label">Email:</span><input name="email" type="text"></input></p>
+			<p class="item"><span class="label">Full Name*:</span><input name="name" type="text"></input></p>
+			<p class="item"><span class="label">Phone*:</span><input name="phone" type="text"></input></p>
+			<p class="item"><span class="label">Email*:</span><input name="email" type="text"></input></p>
 			<p class="item"><span class="label">Subject:</span><input name="subject" type="text"></input></p>
 			<p class="item"><span class="label-top">Enquiry:</span><textarea name="message" rows="8"></textarea></p>
 			<p class="item"><input id="sendEmailButton" type="submit" value="Submit" />&nbsp;<input type="reset" name="resetButton " value="Reset" /></p>
