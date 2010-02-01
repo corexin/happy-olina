@@ -21,17 +21,17 @@ $(document).ready(function() {
 	{
 		var form = jqForm[0];
 		var fieldNames = "";
-		if(!form.name.value)
+		if(form.name.value.trim()=="")
 		{
 			fieldNames +="[Name]";
 		}
 		
-		if(!form.phone.value )
+		if(form.phone.value.trim()=="")
 		{
 			fieldNames +=" [Phone]";
 		}
 
-		if(!form.email.value)
+		if(form.email.value.trim()=="")
 		{
 			fieldNames +=" [Email]";
 		}
